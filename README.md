@@ -3,16 +3,15 @@
 目录结构：
 
 ```text
-CTF-Reverse-Dataset-organized/
-└── 赛事名称/
-    └── 题目名称/
-        └── 原始题目内容（保留 sample、*.extracted 等目录）
+赛事名称/
+└── 题目名称/
+    └── 原始题目内容（保留 sample、*.extracted 等目录）
 ```
 
 本次整理统计：
 
 - 原始赛事目录：49 个
-- 整理后赛事目录：42 个
+- 整理后赛事目录：39 个
 - 题目目录：202 个
 - 文件：446 个
 - 文件总大小：589,050,682 bytes
@@ -30,5 +29,8 @@ CTF-Reverse-Dataset-organized/
 | `TSCTF-J 2019` | `TSCTF-J` |
 | `强网杯决赛` | `强网杯` |
 | `祥云杯决赛` | `祥云杯` |
+| `SCTF` | `(star)CTF` |
+| `TSCTF-J` | `TSCTF` |
+| `XCTF-AdWorld` | `XCTF` |
 
-`manifest.tsv` 记录了每个题目的原始路径、整理后路径、文件数和字节数。原始题目文件未改名、未删除。
+`manifest.tsv` 记录了每个题目的原始路径、整理后路径、文件数和字节数。题目内容未改动；仅对合并后重名的 `easyXor` 增加了来源后缀，避免文件覆盖。
