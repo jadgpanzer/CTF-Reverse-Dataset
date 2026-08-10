@@ -1,0 +1,203 @@
+source_competition	organized_competition	question	source_path	organized_path	file_count	bytes
+(star)CTF	(star)CTF	ChineseGame	work/dataset_src/CTF-Reverse-Dataset-cleaned/(star)CTF/ChineseGame	outputs/CTF-Reverse-Dataset-organized/(star)CTF/ChineseGame	1	1937720
+(star)CTF	(star)CTF	Favourite Architecture flag0	work/dataset_src/CTF-Reverse-Dataset-cleaned/(star)CTF/Favourite Architecture flag0	outputs/CTF-Reverse-Dataset-organized/(star)CTF/Favourite Architecture flag0	3	24166176
+(star)CTF	(star)CTF	RL_Env	work/dataset_src/CTF-Reverse-Dataset-cleaned/(star)CTF/RL_Env	outputs/CTF-Reverse-Dataset-organized/(star)CTF/RL_Env	1	64112
+(star)CTF	(star)CTF	reverse-1rep	work/dataset_src/CTF-Reverse-Dataset-cleaned/(star)CTF/reverse-1rep	outputs/CTF-Reverse-Dataset-organized/(star)CTF/reverse-1rep	1	119119728
+(star)CTF	(star)CTF	stream	work/dataset_src/CTF-Reverse-Dataset-cleaned/(star)CTF/stream	outputs/CTF-Reverse-Dataset-organized/(star)CTF/stream	2	2929312
+(star)CTF	(star)CTF	wherekey	work/dataset_src/CTF-Reverse-Dataset-cleaned/(star)CTF/wherekey	outputs/CTF-Reverse-Dataset-organized/(star)CTF/wherekey	1	819088
+ByteCTF	ByteCTF	0x6d21	work/dataset_src/CTF-Reverse-Dataset-cleaned/ByteCTF/0x6d21	outputs/CTF-Reverse-Dataset-organized/ByteCTF/0x6d21	1	12768
+ByteCTF	ByteCTF	debogus-main	work/dataset_src/CTF-Reverse-Dataset-cleaned/ByteCTF/debogus-main	outputs/CTF-Reverse-Dataset-organized/ByteCTF/debogus-main	5	344534
+ByteCTF	ByteCTF	language binding	work/dataset_src/CTF-Reverse-Dataset-cleaned/ByteCTF/language binding	outputs/CTF-Reverse-Dataset-organized/ByteCTF/language binding	1	2337280
+ByteCTF	ByteCTF	moderncpp	work/dataset_src/CTF-Reverse-Dataset-cleaned/ByteCTF/moderncpp	outputs/CTF-Reverse-Dataset-organized/ByteCTF/moderncpp	1	1673136
+ByteCTF Final	ByteCTF	reverse	work/dataset_src/CTF-Reverse-Dataset-cleaned/ByteCTF Final/reverse	outputs/CTF-Reverse-Dataset-organized/ByteCTF/reverse	1	13312
+CISCN	CISCN	HMI_e2e73078c680a304f13c9564835ac053 (2)	work/dataset_src/CTF-Reverse-Dataset-cleaned/CISCN/HMI_e2e73078c680a304f13c9564835ac053 (2)	outputs/CTF-Reverse-Dataset-organized/CISCN/HMI_e2e73078c680a304f13c9564835ac053 (2)	8	5257728
+CSTC	CSTC	ck	work/dataset_src/CTF-Reverse-Dataset-cleaned/CSTC/ck	outputs/CTF-Reverse-Dataset-organized/CSTC/ck	1	82268
+CSTC	CSTC	crackme	work/dataset_src/CTF-Reverse-Dataset-cleaned/CSTC/crackme	outputs/CTF-Reverse-Dataset-organized/CSTC/crackme	1	3584
+CSTC	CSTC	free_flag	work/dataset_src/CTF-Reverse-Dataset-cleaned/CSTC/free_flag	outputs/CTF-Reverse-Dataset-organized/CSTC/free_flag	1	12864
+CSTC	CSTC	maze	work/dataset_src/CTF-Reverse-Dataset-cleaned/CSTC/maze	outputs/CTF-Reverse-Dataset-organized/CSTC/maze	1	17832
+CSTC	CSTC	pack!pack!pack!	work/dataset_src/CTF-Reverse-Dataset-cleaned/CSTC/pack!pack!pack!	outputs/CTF-Reverse-Dataset-organized/CSTC/pack!pack!pack!	1	373760
+CSTC	CSTC	rand	work/dataset_src/CTF-Reverse-Dataset-cleaned/CSTC/rand	outputs/CTF-Reverse-Dataset-organized/CSTC/rand	1	10688
+CUMTCTF	CUMTCTF	REgame	work/dataset_src/CTF-Reverse-Dataset-cleaned/CUMTCTF/REgame	outputs/CTF-Reverse-Dataset-organized/CUMTCTF/REgame	1	10840
+CUMTCTF	CUMTCTF	re1	work/dataset_src/CTF-Reverse-Dataset-cleaned/CUMTCTF/re1	outputs/CTF-Reverse-Dataset-organized/CUMTCTF/re1	1	6120
+CUMTCTF	CUMTCTF	re6	work/dataset_src/CTF-Reverse-Dataset-cleaned/CUMTCTF/re6	outputs/CTF-Reverse-Dataset-organized/CUMTCTF/re6	1	26976
+CUMTCTF	CUMTCTF	不识庐山真面目Revenge	work/dataset_src/CTF-Reverse-Dataset-cleaned/CUMTCTF/不识庐山真面目Revenge	outputs/CTF-Reverse-Dataset-organized/CUMTCTF/不识庐山真面目Revenge	1	23040
+CyBRICS	CyBRICS	paired	work/dataset_src/CTF-Reverse-Dataset-cleaned/CyBRICS/paired	outputs/CTF-Reverse-Dataset-organized/CyBRICS/paired	3	675328
+CyBRICS	CyBRICS	walker	work/dataset_src/CTF-Reverse-Dataset-cleaned/CyBRICS/walker	outputs/CTF-Reverse-Dataset-organized/CyBRICS/walker	1	41824
+D3CTF	D3CTF	ancient	work/dataset_src/CTF-Reverse-Dataset-cleaned/D3CTF/ancient	outputs/CTF-Reverse-Dataset-organized/D3CTF/ancient	1	26800
+D3CTF	D3CTF	jumpjump	work/dataset_src/CTF-Reverse-Dataset-cleaned/D3CTF/jumpjump	outputs/CTF-Reverse-Dataset-organized/D3CTF/jumpjump	1	847576
+D3CTF	D3CTF	white_give	work/dataset_src/CTF-Reverse-Dataset-cleaned/D3CTF/white_give	outputs/CTF-Reverse-Dataset-organized/D3CTF/white_give	1	304640
+D3CTF	D3CTF	zigzag	work/dataset_src/CTF-Reverse-Dataset-cleaned/D3CTF/zigzag	outputs/CTF-Reverse-Dataset-organized/D3CTF/zigzag	1	622592
+DASCTF-03	DASCTF	Enjoyit-1的附件	work/dataset_src/CTF-Reverse-Dataset-cleaned/DASCTF-03/Enjoyit-1的附件	outputs/CTF-Reverse-Dataset-organized/DASCTF/Enjoyit-1的附件	1	7680
+DASCTF-03	DASCTF	StrangeMine的附件	work/dataset_src/CTF-Reverse-Dataset-cleaned/DASCTF-03/StrangeMine的附件	outputs/CTF-Reverse-Dataset-organized/DASCTF/StrangeMine的附件	1	84480
+DASCTF-03	DASCTF	drinkSomeTea的附件	work/dataset_src/CTF-Reverse-Dataset-cleaned/DASCTF-03/drinkSomeTea的附件	outputs/CTF-Reverse-Dataset-organized/DASCTF/drinkSomeTea的附件	1	40960
+DASCTF-03	DASCTF	replace的附件	work/dataset_src/CTF-Reverse-Dataset-cleaned/DASCTF-03/replace的附件	outputs/CTF-Reverse-Dataset-organized/DASCTF/replace的附件	1	18944
+DASCTF-05	DASCTF	1	work/dataset_src/CTF-Reverse-Dataset-cleaned/DASCTF-05/1	outputs/CTF-Reverse-Dataset-organized/DASCTF/1	1	50541
+DASCTF-05	DASCTF	PaperPlease	work/dataset_src/CTF-Reverse-Dataset-cleaned/DASCTF-05/PaperPlease	outputs/CTF-Reverse-Dataset-organized/DASCTF/PaperPlease	1	17288
+DozerCTF	DozerCTF	I wanna be the Dozer	work/dataset_src/CTF-Reverse-Dataset-cleaned/DozerCTF/I wanna be the Dozer	outputs/CTF-Reverse-Dataset-organized/DozerCTF/I wanna be the Dozer	3	11784691
+DozerCTF	DozerCTF	dump	work/dataset_src/CTF-Reverse-Dataset-cleaned/DozerCTF/dump	outputs/CTF-Reverse-Dataset-organized/DozerCTF/dump	1	24313856
+DozerCTF	DozerCTF	nim	work/dataset_src/CTF-Reverse-Dataset-cleaned/DozerCTF/nim	outputs/CTF-Reverse-Dataset-organized/DozerCTF/nim	1	388735
+Google CTF	Google CTF	1	work/dataset_src/CTF-Reverse-Dataset-cleaned/Google CTF/1	outputs/CTF-Reverse-Dataset-organized/Google CTF/1	1	3660
+Google CTF	Google CTF	2	work/dataset_src/CTF-Reverse-Dataset-cleaned/Google CTF/2	outputs/CTF-Reverse-Dataset-organized/Google CTF/2	91	108333680
+Google CTF	Google CTF	3	work/dataset_src/CTF-Reverse-Dataset-cleaned/Google CTF/3	outputs/CTF-Reverse-Dataset-organized/Google CTF/3	2	53584
+L3HCTF	L3HCTF	double-joy	work/dataset_src/CTF-Reverse-Dataset-cleaned/L3HCTF/double-joy	outputs/CTF-Reverse-Dataset-organized/L3HCTF/double-joy	1	19928
+MRCTF	MRCTF	EzGame	work/dataset_src/CTF-Reverse-Dataset-cleaned/MRCTF/EzGame	outputs/CTF-Reverse-Dataset-organized/MRCTF/EzGame	4	35985312
+MRCTF	MRCTF	MR_register	work/dataset_src/CTF-Reverse-Dataset-cleaned/MRCTF/MR_register	outputs/CTF-Reverse-Dataset-organized/MRCTF/MR_register	1	27136
+MRCTF	MRCTF	dynamic_debug	work/dataset_src/CTF-Reverse-Dataset-cleaned/MRCTF/dynamic_debug	outputs/CTF-Reverse-Dataset-organized/MRCTF/dynamic_debug	1	1020496
+MRCTF	MRCTF	real_signIn	work/dataset_src/CTF-Reverse-Dataset-cleaned/MRCTF/real_signIn	outputs/CTF-Reverse-Dataset-organized/MRCTF/real_signIn	1	133460
+MT-CTF	MT-CTF	100mazes	work/dataset_src/CTF-Reverse-Dataset-cleaned/MT-CTF/100mazes	outputs/CTF-Reverse-Dataset-organized/MT-CTF/100mazes	1	958256
+MT-CTF	MT-CTF	Inject	work/dataset_src/CTF-Reverse-Dataset-cleaned/MT-CTF/Inject	outputs/CTF-Reverse-Dataset-organized/MT-CTF/Inject	2	381440
+MT-CTF	MT-CTF	matrix	work/dataset_src/CTF-Reverse-Dataset-cleaned/MT-CTF/matrix	outputs/CTF-Reverse-Dataset-organized/MT-CTF/matrix	1	345600
+MT-CTF Final	MT-CTF	Random_f7f2f65c48a584e18ae15b23f2fbe935	work/dataset_src/CTF-Reverse-Dataset-cleaned/MT-CTF Final/Random_f7f2f65c48a584e18ae15b23f2fbe935	outputs/CTF-Reverse-Dataset-organized/MT-CTF/Random_f7f2f65c48a584e18ae15b23f2fbe935	1	9728
+MT-CTF Final	MT-CTF	superflat_0b45ed5eff128b0e9e120a7edd178cce	work/dataset_src/CTF-Reverse-Dataset-cleaned/MT-CTF Final/superflat_0b45ed5eff128b0e9e120a7edd178cce	outputs/CTF-Reverse-Dataset-organized/MT-CTF/superflat_0b45ed5eff128b0e9e120a7edd178cce	2	11947752
+MT-CTF Final	MT-CTF	wow_646b8efcc8d900414546f65f02dc9831	work/dataset_src/CTF-Reverse-Dataset-cleaned/MT-CTF Final/wow_646b8efcc8d900414546f65f02dc9831	outputs/CTF-Reverse-Dataset-organized/MT-CTF/wow_646b8efcc8d900414546f65f02dc9831	1	82432
+NEEPUSEC	NEEPUSEC	OLLEH	work/dataset_src/CTF-Reverse-Dataset-cleaned/NEEPUSEC/OLLEH	outputs/CTF-Reverse-Dataset-organized/NEEPUSEC/OLLEH	1	133236
+NEEPUSEC	NEEPUSEC	easyre	work/dataset_src/CTF-Reverse-Dataset-cleaned/NEEPUSEC/easyre	outputs/CTF-Reverse-Dataset-organized/NEEPUSEC/easyre	2	179712
+NEEPUSEC	NEEPUSEC	ez	work/dataset_src/CTF-Reverse-Dataset-cleaned/NEEPUSEC/ez	outputs/CTF-Reverse-Dataset-organized/NEEPUSEC/ez	1	137216
+NEEPUSEC	NEEPUSEC	login	work/dataset_src/CTF-Reverse-Dataset-cleaned/NEEPUSEC/login	outputs/CTF-Reverse-Dataset-organized/NEEPUSEC/login	1	10355883
+NEFUCTF 2020	NEFUCTF	SignUp	work/dataset_src/CTF-Reverse-Dataset-cleaned/NEFUCTF 2020/SignUp	outputs/CTF-Reverse-Dataset-organized/NEFUCTF/SignUp	1	9728
+NEFUCTF 2020	NEFUCTF	Test_your_math	work/dataset_src/CTF-Reverse-Dataset-cleaned/NEFUCTF 2020/Test_your_math	outputs/CTF-Reverse-Dataset-organized/NEFUCTF/Test_your_math	1	10240
+NEFUCTF 2020	NEFUCTF	maze	work/dataset_src/CTF-Reverse-Dataset-cleaned/NEFUCTF 2020/maze	outputs/CTF-Reverse-Dataset-organized/NEFUCTF/maze	1	21504
+NepCTF	NepCTF	easymips1	work/dataset_src/CTF-Reverse-Dataset-cleaned/NepCTF/easymips1	outputs/CTF-Reverse-Dataset-organized/NepCTF/easymips1	1	12496
+NepCTF	NepCTF	re__	work/dataset_src/CTF-Reverse-Dataset-cleaned/NepCTF/re__	outputs/CTF-Reverse-Dataset-organized/NepCTF/re__	1	66560
+NepCTF	NepCTF	worrrrms	work/dataset_src/CTF-Reverse-Dataset-cleaned/NepCTF/worrrrms	outputs/CTF-Reverse-Dataset-organized/NepCTF/worrrrms	1	2305536
+RCTF	RCTF	Hi!Harmony!	work/dataset_src/CTF-Reverse-Dataset-cleaned/RCTF/Hi!Harmony!	outputs/CTF-Reverse-Dataset-organized/RCTF/Hi!Harmony!	1	105680
+RCTF	RCTF	dht	work/dataset_src/CTF-Reverse-Dataset-cleaned/RCTF/dht	outputs/CTF-Reverse-Dataset-organized/RCTF/dht	1	9031000
+RCTF	RCTF	misc-Monopolyzip	work/dataset_src/CTF-Reverse-Dataset-cleaned/RCTF/misc-Monopolyzip	outputs/CTF-Reverse-Dataset-organized/RCTF/misc-Monopolyzip	2	2065968
+RCTF	RCTF	re	work/dataset_src/CTF-Reverse-Dataset-cleaned/RCTF/re	outputs/CTF-Reverse-Dataset-organized/RCTF/re	1	35265424
+RCTF	RCTF	two_shortest	work/dataset_src/CTF-Reverse-Dataset-cleaned/RCTF/two_shortest	outputs/CTF-Reverse-Dataset-organized/RCTF/two_shortest	1	223792
+ROARCTF	ROARCTF	WaO	work/dataset_src/CTF-Reverse-Dataset-cleaned/ROARCTF/WaO	outputs/CTF-Reverse-Dataset-organized/ROARCTF/WaO	1	53248
+ROARCTF	ROARCTF	d5f6a2b69cc6a8e09adcef05c07e0dc3	work/dataset_src/CTF-Reverse-Dataset-cleaned/ROARCTF/d5f6a2b69cc6a8e09adcef05c07e0dc3	outputs/CTF-Reverse-Dataset-organized/ROARCTF/d5f6a2b69cc6a8e09adcef05c07e0dc3	1	18608
+ROARCTF	ROARCTF	singluarDLP	work/dataset_src/CTF-Reverse-Dataset-cleaned/ROARCTF/singluarDLP	outputs/CTF-Reverse-Dataset-organized/ROARCTF/singluarDLP	1	18608
+ROARCTF	ROARCTF	slime_war	work/dataset_src/CTF-Reverse-Dataset-cleaned/ROARCTF/slime_war	outputs/CTF-Reverse-Dataset-organized/ROARCTF/slime_war	1	62976
+SCTF	SCTF	CplusExceptionEncrypt	work/dataset_src/CTF-Reverse-Dataset-cleaned/SCTF/CplusExceptionEncrypt	outputs/CTF-Reverse-Dataset-organized/SCTF/CplusExceptionEncrypt	1	206593
+SCTF	SCTF	sycgame	work/dataset_src/CTF-Reverse-Dataset-cleaned/SCTF/sycgame	outputs/CTF-Reverse-Dataset-organized/SCTF/sycgame	1	22688
+SWPUCTF 2020	SWPUCTF	Re	work/dataset_src/CTF-Reverse-Dataset-cleaned/SWPUCTF 2020/Re	outputs/CTF-Reverse-Dataset-organized/SWPUCTF/Re	1	15872
+SWPUCTF 2020	SWPUCTF	Re(1)	work/dataset_src/CTF-Reverse-Dataset-cleaned/SWPUCTF 2020/Re(1)	outputs/CTF-Reverse-Dataset-organized/SWPUCTF/Re(1)	1	358400
+SWPUCTF 2020	SWPUCTF	RealEzRE	work/dataset_src/CTF-Reverse-Dataset-cleaned/SWPUCTF 2020/RealEzRE	outputs/CTF-Reverse-Dataset-organized/SWPUCTF/RealEzRE	1	222208
+SWPUCTF 2020	SWPUCTF	swpuctf	work/dataset_src/CTF-Reverse-Dataset-cleaned/SWPUCTF 2020/swpuctf	outputs/CTF-Reverse-Dataset-organized/SWPUCTF/swpuctf	1	98304
+TCTF	TCTF	FA51R_RE_toplayer	work/dataset_src/CTF-Reverse-Dataset-cleaned/TCTF/FA51R_RE_toplayer	outputs/CTF-Reverse-Dataset-organized/TCTF/FA51R_RE_toplayer	1	923864
+TCTF	TCTF	FEA	work/dataset_src/CTF-Reverse-Dataset-cleaned/TCTF/FEA	outputs/CTF-Reverse-Dataset-organized/TCTF/FEA	2	199600
+TCTF	TCTF	future_646EE2D7588F789D3763AAAA463C49210C8DEF667C14D29B83EEAD7AD8B0FF68	work/dataset_src/CTF-Reverse-Dataset-cleaned/TCTF/future_646EE2D7588F789D3763AAAA463C49210C8DEF667C14D29B83EEAD7AD8B0FF68	outputs/CTF-Reverse-Dataset-organized/TCTF/future_646EE2D7588F789D3763AAAA463C49210C8DEF667C14D29B83EEAD7AD8B0FF68	1	16264
+TCTF	TCTF	lalamblambdadambda	work/dataset_src/CTF-Reverse-Dataset-cleaned/TCTF/lalamblambdadambda	outputs/CTF-Reverse-Dataset-organized/TCTF/lalamblambdadambda	1	6454109
+TCTF	TCTF	main	work/dataset_src/CTF-Reverse-Dataset-cleaned/TCTF/main	outputs/CTF-Reverse-Dataset-organized/TCTF/main	1	923864
+TCTF	TCTF	vp_2bc8d9cbc2c7092db69ab0f57738f0c424972975247b3c9eb47c61b58ea9b52a	work/dataset_src/CTF-Reverse-Dataset-cleaned/TCTF/vp_2bc8d9cbc2c7092db69ab0f57738f0c424972975247b3c9eb47c61b58ea9b52a	outputs/CTF-Reverse-Dataset-organized/TCTF/vp_2bc8d9cbc2c7092db69ab0f57738f0c424972975247b3c9eb47c61b58ea9b52a	1	34808
+TCTF Final	TCTF	0bf_be9a2e42af02c093666bae0b41775410ff2cb225	work/dataset_src/CTF-Reverse-Dataset-cleaned/TCTF Final/0bf_be9a2e42af02c093666bae0b41775410ff2cb225	outputs/CTF-Reverse-Dataset-organized/TCTF/0bf_be9a2e42af02c093666bae0b41775410ff2cb225	1	608440
+TCTF Final	TCTF	client	work/dataset_src/CTF-Reverse-Dataset-cleaned/TCTF Final/client	outputs/CTF-Reverse-Dataset-organized/TCTF/client	1	7165264
+TCTF Final	TCTF	fruit	work/dataset_src/CTF-Reverse-Dataset-cleaned/TCTF Final/fruit	outputs/CTF-Reverse-Dataset-organized/TCTF/fruit	4	827568
+TSCTF	TSCTF	Go_1000_floors	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF/Go_1000_floors	outputs/CTF-Reverse-Dataset-organized/TSCTF/Go_1000_floors	1	2402816
+TSCTF	TSCTF	PACMAN	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF/PACMAN	outputs/CTF-Reverse-Dataset-organized/TSCTF/PACMAN	94	51582296
+TSCTF	TSCTF	PaintUpx - 副本	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF/PaintUpx - 副本	outputs/CTF-Reverse-Dataset-organized/TSCTF/PaintUpx - 副本	1	37376
+TSCTF	TSCTF	easyXor	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF/easyXor	outputs/CTF-Reverse-Dataset-organized/TSCTF/easyXor	1	59334
+TSCTF	TSCTF	fxxk	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF/fxxk	outputs/CTF-Reverse-Dataset-organized/TSCTF/fxxk	1	18552
+TSCTF	TSCTF	fxxk_bak	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF/fxxk_bak	outputs/CTF-Reverse-Dataset-organized/TSCTF/fxxk_bak	1	14400
+TSCTF	TSCTF	welcome	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF/welcome	outputs/CTF-Reverse-Dataset-organized/TSCTF/welcome	1	5681152
+TSCTF-J	TSCTF-J	UpxRand	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J/UpxRand	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/UpxRand	1	886784
+TSCTF-J	TSCTF-J	UpxRand-packed	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J/UpxRand-packed	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/UpxRand-packed	1	375808
+TSCTF-J	TSCTF-J	crackme	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J/crackme	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/crackme	2	53760
+TSCTF-J	TSCTF-J	crackme-packed	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J/crackme-packed	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/crackme-packed	1	17408
+TSCTF-J	TSCTF-J	debugMe	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J/debugMe	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/debugMe	1	21336
+TSCTF-J	TSCTF-J	easyXor	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J/easyXor	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/easyXor	1	9216
+TSCTF-J	TSCTF-J	maze	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J/maze	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/maze	1	15360
+TSCTF-J	TSCTF-J	maze_revenge	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J/maze_revenge	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/maze_revenge	1	21872
+TSCTF-J	TSCTF-J	minecraft	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J/minecraft	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/minecraft	1	12668701
+TSCTF-J	TSCTF-J	tic-tac-toe	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J/tic-tac-toe	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/tic-tac-toe	1	29696
+TSCTF-J 2019	TSCTF-J	attachment	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J 2019/attachment	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/attachment	1	70656
+TSCTF-J 2019	TSCTF-J	attachment-1	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J 2019/attachment-1	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/attachment-1	1	130560
+TSCTF-J 2019	TSCTF-J	attachment-2	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J 2019/attachment-2	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/attachment-2	1	47520
+TSCTF-J 2019	TSCTF-J	attachment-3	work/dataset_src/CTF-Reverse-Dataset-cleaned/TSCTF-J 2019/attachment-3	outputs/CTF-Reverse-Dataset-organized/TSCTF-J/attachment-3	1	16896
+UMassCTF	UMassCTF	adventure	work/dataset_src/CTF-Reverse-Dataset-cleaned/UMassCTF/adventure	outputs/CTF-Reverse-Dataset-organized/UMassCTF/adventure	1	21824
+UMassCTF	UMassCTF	chains	work/dataset_src/CTF-Reverse-Dataset-cleaned/UMassCTF/chains	outputs/CTF-Reverse-Dataset-organized/UMassCTF/chains	1	16856
+UMassCTF	UMassCTF	client	work/dataset_src/CTF-Reverse-Dataset-cleaned/UMassCTF/client	outputs/CTF-Reverse-Dataset-organized/UMassCTF/client	1	3402464
+UMassCTF	UMassCTF	lambda	work/dataset_src/CTF-Reverse-Dataset-cleaned/UMassCTF/lambda	outputs/CTF-Reverse-Dataset-organized/UMassCTF/lambda	1	798704
+VNCTF	VNCTF	1	work/dataset_src/CTF-Reverse-Dataset-cleaned/VNCTF/1	outputs/CTF-Reverse-Dataset-organized/VNCTF/1	1	9728
+XCTF	XCTF	88901b167ef04a749e61551f309ee3f1	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF/88901b167ef04a749e61551f309ee3f1	outputs/CTF-Reverse-Dataset-organized/XCTF/88901b167ef04a749e61551f309ee3f1	1	1267944
+XCTF-AdWorld	XCTF-AdWorld	001-hackme	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/001-hackme	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/001-hackme	1	747304
+XCTF-AdWorld	XCTF-AdWorld	003-re2-cpp-is-awesome	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/003-re2-cpp-is-awesome	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/003-re2-cpp-is-awesome	1	10720
+XCTF-AdWorld	XCTF-AdWorld	004-666	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/004-666	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/004-666	2	34000
+XCTF-AdWorld	XCTF-AdWorld	005-easyRE1	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/005-easyRE1	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/005-easyRE1	3	25000
+XCTF-AdWorld	XCTF-AdWorld	006-re1-100	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/006-re1-100	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/006-re1-100	2	2555376
+XCTF-AdWorld	XCTF-AdWorld	007-Shuffle	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/007-Shuffle	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/007-Shuffle	1	7489
+XCTF-AdWorld	XCTF-AdWorld	008-re-for-50-plz-50	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/008-re-for-50-plz-50	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/008-re-for-50-plz-50	1	696652
+XCTF-AdWorld	XCTF-AdWorld	009-dmd-50	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/009-dmd-50	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/009-dmd-50	1	23991
+XCTF-AdWorld	XCTF-AdWorld	011-secret-galaxy-300	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/011-secret-galaxy-300	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/011-secret-galaxy-300	4	95965
+XCTF-AdWorld	XCTF-AdWorld	012-srm-50	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/012-srm-50	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/012-srm-50	1	83456
+XCTF-AdWorld	XCTF-AdWorld	013-Mysterious	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/013-Mysterious	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/013-Mysterious	1	176228
+XCTF-AdWorld	XCTF-AdWorld	014-answer-to-everything	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/014-answer-to-everything	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/014-answer-to-everything	2	17440
+XCTF-AdWorld	XCTF-AdWorld	015-elrond32	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/015-elrond32	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/015-elrond32	2	11040
+XCTF-AdWorld	XCTF-AdWorld	018-Reversing-x64Elf-100	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/018-Reversing-x64Elf-100	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/018-Reversing-x64Elf-100	1	6320
+XCTF-AdWorld	XCTF-AdWorld	019-IgniteMe	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/019-IgniteMe	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/019-IgniteMe	1	307291
+XCTF-AdWorld	XCTF-AdWorld	020-流浪者	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/020-流浪者	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/020-流浪者	2	49152
+XCTF-AdWorld	XCTF-AdWorld	021-EasyRE	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/021-EasyRE	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/021-EasyRE	1	9216
+XCTF-AdWorld	XCTF-AdWorld	022-SignIn	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/022-SignIn	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/022-SignIn	1	10240
+XCTF-AdWorld	XCTF-AdWorld	023-simple-check-100	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/023-simple-check-100	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/023-simple-check-100	4	95233
+XCTF-AdWorld	XCTF-AdWorld	024-debug	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/024-debug	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/024-debug	1	6656
+XCTF-AdWorld	XCTF-AdWorld	026-EASYHOOK	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/026-EASYHOOK	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/026-EASYHOOK	1	53248
+XCTF-AdWorld	XCTF-AdWorld	027-crackme	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/027-crackme	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/027-crackme	1	6213
+XCTF-AdWorld	XCTF-AdWorld	028-crazy	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/028-crazy	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/028-crazy	2	41088
+XCTF-AdWorld	XCTF-AdWorld	029-Repalce	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/029-Repalce	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/029-Repalce	2	12288
+XCTF-AdWorld	XCTF-AdWorld	030-gametime	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/030-gametime	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/030-gametime	1	107008
+XCTF-AdWorld	XCTF-AdWorld	031-ReverseMe-120	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/031-ReverseMe-120	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/031-ReverseMe-120	1	91136
+XCTF-AdWorld	XCTF-AdWorld	032-serial-150	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/032-serial-150	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/032-serial-150	1	10074
+XCTF-AdWorld	XCTF-AdWorld	034-testre	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/034-testre	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/034-testre	2	20848
+XCTF-AdWorld	XCTF-AdWorld	035-reverse-for-the-holy-grail-350	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/035-reverse-for-the-holy-grail-350	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/035-reverse-for-the-holy-grail-350	1	12632
+XCTF-AdWorld	XCTF-AdWorld	036-Windows-Reverse2	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/036-Windows-Reverse2	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/036-Windows-Reverse2	2	44544
+XCTF-AdWorld	XCTF-AdWorld	037-Newbie_calculations	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/037-Newbie_calculations	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/037-Newbie_calculations	1	66048
+XCTF-AdWorld	XCTF-AdWorld	038-easyre-153	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/038-easyre-153	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/038-easyre-153	1	7540
+XCTF-AdWorld	XCTF-AdWorld	039-key	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/039-key	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/039-key	1	26112
+XCTF-AdWorld	XCTF-AdWorld	040-deedeedee	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/040-deedeedee	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/040-deedeedee	2	2398842
+XCTF-AdWorld	XCTF-AdWorld	041-Windows-Reverse1	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/041-Windows-Reverse1	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/041-Windows-Reverse1	1	7680
+XCTF-AdWorld	XCTF-AdWorld	042-notsequence	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/042-notsequence	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/042-notsequence	1	4472
+XCTF-AdWorld	XCTF-AdWorld	043-easy_Maze	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/043-easy_Maze	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/043-easy_Maze	2	35664
+XCTF-AdWorld	XCTF-AdWorld	044-zorropub	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/044-zorropub	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/044-zorropub	1	10624
+XCTF-AdWorld	XCTF-AdWorld	045-catch-me	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/045-catch-me	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/045-catch-me	1	6872
+XCTF-AdWorld	XCTF-AdWorld	046-BabyXor	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/046-BabyXor	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/046-BabyXor	3	761596
+XCTF-AdWorld	XCTF-AdWorld	048-梅津美治郎	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/048-梅津美治郎	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/048-梅津美治郎	2	69632
+XCTF-AdWorld	XCTF-AdWorld	049-echo-server	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/049-echo-server	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/049-echo-server	1	5584
+XCTF-AdWorld	XCTF-AdWorld	050-re5-packed-movement	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/050-re5-packed-movement	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/050-re5-packed-movement	1	10307452
+XCTF-AdWorld	XCTF-AdWorld	051-The_Maya_Society	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/051-The_Maya_Society	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/051-The_Maya_Society	2	28736
+XCTF-AdWorld	XCTF-AdWorld	052-mfc逆向-200	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/052-mfc逆向-200	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/052-mfc逆向-200	1	1897472
+XCTF-AdWorld	XCTF-AdWorld	053-2ex1	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/053-2ex1	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/053-2ex1	2	164536
+XCTF-AdWorld	XCTF-AdWorld	054-asong	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/054-asong	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/054-asong	2	21328
+XCTF-AdWorld	XCTF-AdWorld	055-76号	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/055-76号	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/055-76号	2	11056
+XCTF-AdWorld	XCTF-AdWorld	056-first	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/056-first	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/056-first	1	10688
+XCTF-AdWorld	XCTF-AdWorld	057-easyCpp	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/057-easyCpp	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/057-easyCpp	2	75616
+XCTF-AdWorld	XCTF-AdWorld	060-reverse-box	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/060-reverse-box	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/060-reverse-box	2	11208
+XCTF-AdWorld	XCTF-AdWorld	061-easy_go	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/061-easy_go	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/061-easy_go	2	3036480
+XCTF-AdWorld	XCTF-AdWorld	063-2ex	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/063-2ex	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/063-2ex	2	164536
+XCTF-AdWorld	XCTF-AdWorld	064-pseudorandom	work/dataset_src/CTF-Reverse-Dataset-cleaned/XCTF-AdWorld/064-pseudorandom	outputs/CTF-Reverse-Dataset-organized/XCTF-AdWorld/064-pseudorandom	1	10792
+天翼初赛	天翼初赛	NicePy	work/dataset_src/CTF-Reverse-Dataset-cleaned/天翼初赛/NicePy	outputs/CTF-Reverse-Dataset-organized/天翼初赛/NicePy	1	20441058
+天翼初赛	天翼初赛	ezgo	work/dataset_src/CTF-Reverse-Dataset-cleaned/天翼初赛/ezgo	outputs/CTF-Reverse-Dataset-organized/天翼初赛/ezgo	1	1231872
+天翼初赛	天翼初赛	revvverse	work/dataset_src/CTF-Reverse-Dataset-cleaned/天翼初赛/revvverse	outputs/CTF-Reverse-Dataset-organized/天翼初赛/revvverse	1	804536
+宁波	宁波	SleeperAgent	work/dataset_src/CTF-Reverse-Dataset-cleaned/宁波/SleeperAgent	outputs/CTF-Reverse-Dataset-organized/宁波/SleeperAgent	1	4459408
+强网拟态	强网拟态	RE1-babyre	work/dataset_src/CTF-Reverse-Dataset-cleaned/强网拟态/RE1-babyre	outputs/CTF-Reverse-Dataset-organized/强网拟态/RE1-babyre	1	15672
+强网杯	强网杯	chall	work/dataset_src/CTF-Reverse-Dataset-cleaned/强网杯/chall	outputs/CTF-Reverse-Dataset-organized/强网杯/chall	1	1088752
+强网杯决赛	强网杯	easyaes	work/dataset_src/CTF-Reverse-Dataset-cleaned/强网杯决赛/easyaes	outputs/CTF-Reverse-Dataset-organized/强网杯/easyaes	1	220368
+极客巅峰	极客巅峰	baby_maze	work/dataset_src/CTF-Reverse-Dataset-cleaned/极客巅峰/baby_maze	outputs/CTF-Reverse-Dataset-organized/极客巅峰/baby_maze	1	3035384
+湖湘杯	湖湘杯	Hideit_813671af35dc5051d3f63bc716fcf290	work/dataset_src/CTF-Reverse-Dataset-cleaned/湖湘杯/Hideit_813671af35dc5051d3f63bc716fcf290	outputs/CTF-Reverse-Dataset-organized/湖湘杯/Hideit_813671af35dc5051d3f63bc716fcf290	1	58880
+湖湘杯	湖湘杯	babyunt_5872438de9788d9af56d53980367413c	work/dataset_src/CTF-Reverse-Dataset-cleaned/湖湘杯/babyunt_5872438de9788d9af56d53980367413c	outputs/CTF-Reverse-Dataset-organized/湖湘杯/babyunt_5872438de9788d9af56d53980367413c	1	198656
+湖湘杯	湖湘杯	shell_250f572b9d4a891213d31f8c20976131	work/dataset_src/CTF-Reverse-Dataset-cleaned/湖湘杯/shell_250f572b9d4a891213d31f8c20976131	outputs/CTF-Reverse-Dataset-organized/湖湘杯/shell_250f572b9d4a891213d31f8c20976131	1	59392
+祥云杯	祥云杯	Dizzy_eff0e8b1e85ea6cf91d71dac530e9c9c	work/dataset_src/CTF-Reverse-Dataset-cleaned/祥云杯/Dizzy_eff0e8b1e85ea6cf91d71dac530e9c9c	outputs/CTF-Reverse-Dataset-organized/祥云杯/Dizzy_eff0e8b1e85ea6cf91d71dac530e9c9c	1	252416
+祥云杯	祥云杯	InjectDll	work/dataset_src/CTF-Reverse-Dataset-cleaned/祥云杯/InjectDll	outputs/CTF-Reverse-Dataset-organized/祥云杯/InjectDll	1	15360
+祥云杯	祥云杯	勒索解密_a6b0af561d5ad1ff25888265806a1be3	work/dataset_src/CTF-Reverse-Dataset-cleaned/祥云杯/勒索解密_a6b0af561d5ad1ff25888265806a1be3	outputs/CTF-Reverse-Dataset-organized/祥云杯/勒索解密_a6b0af561d5ad1ff25888265806a1be3	1	224768
+祥云杯决赛	祥云杯	boa	work/dataset_src/CTF-Reverse-Dataset-cleaned/祥云杯决赛/boa	outputs/CTF-Reverse-Dataset-organized/祥云杯/boa	1	3053568
+祥云杯决赛	祥云杯	ps	work/dataset_src/CTF-Reverse-Dataset-cleaned/祥云杯决赛/ps	outputs/CTF-Reverse-Dataset-organized/祥云杯/ps	1	55640
+第五空间	第五空间	StangeLanguage	work/dataset_src/CTF-Reverse-Dataset-cleaned/第五空间/StangeLanguage	outputs/CTF-Reverse-Dataset-organized/第五空间/StangeLanguage	1	7409267
+红帽杯	红帽杯	ezRev	work/dataset_src/CTF-Reverse-Dataset-cleaned/红帽杯/ezRev	outputs/CTF-Reverse-Dataset-organized/红帽杯/ezRev	1	30720
+红帽杯	红帽杯	file_store	work/dataset_src/CTF-Reverse-Dataset-cleaned/红帽杯/file_store	outputs/CTF-Reverse-Dataset-organized/红帽杯/file_store	1	72336
+红明谷杯	红明谷杯	g0	work/dataset_src/CTF-Reverse-Dataset-cleaned/红明谷杯/g0	outputs/CTF-Reverse-Dataset-organized/红明谷杯/g0	1	1893888
+红明谷杯	红明谷杯	gogogo	work/dataset_src/CTF-Reverse-Dataset-cleaned/红明谷杯/gogogo	outputs/CTF-Reverse-Dataset-organized/红明谷杯/gogogo	1	2203648
+绿城杯	绿城杯	babyvxworks	work/dataset_src/CTF-Reverse-Dataset-cleaned/绿城杯/babyvxworks	outputs/CTF-Reverse-Dataset-organized/绿城杯/babyvxworks	1	89284
+绿城杯	绿城杯	easy_re	work/dataset_src/CTF-Reverse-Dataset-cleaned/绿城杯/easy_re	outputs/CTF-Reverse-Dataset-organized/绿城杯/easy_re	1	9728
+绿城杯	绿城杯	抛石机	work/dataset_src/CTF-Reverse-Dataset-cleaned/绿城杯/抛石机	outputs/CTF-Reverse-Dataset-organized/绿城杯/抛石机	1	14424
+羊城杯	羊城杯	BabySmc-e6f4a804-1fbf-482d-b140-151927ddcfdb	work/dataset_src/CTF-Reverse-Dataset-cleaned/羊城杯/BabySmc-e6f4a804-1fbf-482d-b140-151927ddcfdb	outputs/CTF-Reverse-Dataset-organized/羊城杯/BabySmc-e6f4a804-1fbf-482d-b140-151927ddcfdb	1	178688
+羊城杯	羊城杯	DeltX-9e57946f-ce9c-452e-a526-8923af9faa07	work/dataset_src/CTF-Reverse-Dataset-cleaned/羊城杯/DeltX-9e57946f-ce9c-452e-a526-8923af9faa07	outputs/CTF-Reverse-Dataset-organized/羊城杯/DeltX-9e57946f-ce9c-452e-a526-8923af9faa07	1	153088
+羊城杯	羊城杯	EasyVM-e4400ed4-b59d-45fb-b7eb-b47d27347c4f	work/dataset_src/CTF-Reverse-Dataset-cleaned/羊城杯/EasyVM-e4400ed4-b59d-45fb-b7eb-b47d27347c4f	outputs/CTF-Reverse-Dataset-organized/羊城杯/EasyVM-e4400ed4-b59d-45fb-b7eb-b47d27347c4f	1	10400
+羊城杯	羊城杯	OddCode-bad214b6-1393-4565-85d3-0bd509bc1c48	work/dataset_src/CTF-Reverse-Dataset-cleaned/羊城杯/OddCode-bad214b6-1393-4565-85d3-0bd509bc1c48	outputs/CTF-Reverse-Dataset-organized/羊城杯/OddCode-bad214b6-1393-4565-85d3-0bd509bc1c48	1	19968
+羊城杯	羊城杯	safe box-8d0015ea-7146-4ed4-88dc-de6e8783dffa	work/dataset_src/CTF-Reverse-Dataset-cleaned/羊城杯/safe box-8d0015ea-7146-4ed4-88dc-de6e8783dffa	outputs/CTF-Reverse-Dataset-organized/羊城杯/safe box-8d0015ea-7146-4ed4-88dc-de6e8783dffa	1	30720
+莲城杯	莲城杯	baby_rust	work/dataset_src/CTF-Reverse-Dataset-cleaned/莲城杯/baby_rust	outputs/CTF-Reverse-Dataset-organized/莲城杯/baby_rust	1	424288
+虎符网络安全技能大赛	虎符网络安全技能大赛	CrackMe	work/dataset_src/CTF-Reverse-Dataset-cleaned/虎符网络安全技能大赛/CrackMe	outputs/CTF-Reverse-Dataset-organized/虎符网络安全技能大赛/CrackMe	1	24576
+虎符网络安全技能大赛	虎符网络安全技能大赛	re	work/dataset_src/CTF-Reverse-Dataset-cleaned/虎符网络安全技能大赛/re	outputs/CTF-Reverse-Dataset-organized/虎符网络安全技能大赛/re	1	18828
+西湖论剑	西湖论剑	2111196197801f19959	work/dataset_src/CTF-Reverse-Dataset-cleaned/西湖论剑/2111196197801f19959	outputs/CTF-Reverse-Dataset-organized/西湖论剑/2111196197801f19959	1	14848
+西湖论剑	西湖论剑	2111196197801f693f3	work/dataset_src/CTF-Reverse-Dataset-cleaned/西湖论剑/2111196197801f693f3	outputs/CTF-Reverse-Dataset-organized/西湖论剑/2111196197801f693f3	1	16384
+西湖论剑	西湖论剑	2111196197801f94a65	work/dataset_src/CTF-Reverse-Dataset-cleaned/西湖论剑/2111196197801f94a65	outputs/CTF-Reverse-Dataset-organized/西湖论剑/2111196197801f94a65	1	36366
+西湖论剑	西湖论剑	21111961978038e80fb	work/dataset_src/CTF-Reverse-Dataset-cleaned/西湖论剑/21111961978038e80fb	outputs/CTF-Reverse-Dataset-organized/西湖论剑/21111961978038e80fb	1	1069544
