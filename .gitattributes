@@ -4,3 +4,4 @@ README.md -filter -diff -merge text
 manifest.tsv -filter -diff -merge text
 .gitignore -filter -diff -merge text
 .gitattributes -filter -diff -merge text
+P3-新增题目/** -filter -diff -merge -text
