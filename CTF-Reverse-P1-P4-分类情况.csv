@@ -1,0 +1,437 @@
+
+﻿题目编号,赛事名称,题目名称,论文分类集合,P1-Block,P2-Obfuscate,P3-Morph,P4-Conceal,U0-待复核,保护证据,标注置信度,原始数据集相对路径
+
+(star)CTF/ChineseGame,(star)CTF,ChineseGame,U0,否,否,否,否,是,静态证据不足，待人工复核,低,(star)CTF/ChineseGame
+
+(star)CTF/Favourite Architecture flag0,(star)CTF,Favourite Architecture flag0,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ess_vm_readv process_vm_writev pselect6 ptrace pwrite64 pwritev quotactl readahead readlinkat reboot recvfrom recvmmsg recvmsg; 环境/虚拟机检查: fini_array .dynamic .data .bss .comment qemu-riscv64 /lib64/ld-linux-x86-64.so.2 :/Pl:>* librt.so.1 _ITM_deregisterTMCloneTa; 时序/工具干预: %c,高,(star)CTF/Favourite Architecture flag0
+
+(star)CTF/RL_Env,(star)CTF,RL_Env,U0,否,否,否,否,是,静态证据不足，待人工复核,低,(star)CTF/RL_Env
+
+(star)CTF/reverse-1rep,(star)CTF,reverse-1rep,U0,否,否,否,否,是,静态证据不足，待人工复核,低,(star)CTF/reverse-1rep
+
+(star)CTF/stream,(star)CTF,stream,U0,否,否,否,否,是,静态证据不足，待人工复核,低,(star)CTF/stream
+
+(star)CTF/wherekey,(star)CTF,wherekey,U0,否,否,否,否,是,静态证据不足，待人工复核,低,(star)CTF/wherekey
+
+ByteCTF/0x6d21,ByteCTF,0x6d21,U0,否,否,否,否,是,静态证据不足，待人工复核,低,ByteCTF/0x6d21
+
+ByteCTF/debogus-main,ByteCTF,debogus-main,P2,否,是,否,否,否,由 C1/C4 映射：题目目录名明确指向诱饵/伪路径,中,ByteCTF/debogus-main
+
+ByteCTF/language binding,ByteCTF,language binding,U0,否,否,否,否,是,静态证据不足，待人工复核,低,ByteCTF/language binding
+
+ByteCTF/moderncpp,ByteCTF,moderncpp,U0,否,否,否,否,是,静态证据不足，待人工复核,低,ByteCTF/moderncpp
+
+ByteCTF/reverse,ByteCTF,reverse,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll memcpy <?xml version='1.0' encoding='UTF-8' stand; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,ByteCTF/reverse
+
+CISCN/HMI_e2e73078c680a304f13c9564835ac053 (2),CISCN,HMI_e2e73078c680a304f13c9564835ac053 (2),U0,否,否,否,否,是,静态证据不足，待人工复核,低,CISCN/HMI_e2e73078c680a304f13c9564835ac053 (2)
+
+CSTC/ck,CSTC,ck,U0,否,否,否,否,是,静态证据不足，待人工复核,低,CSTC/ck
+
+CSTC/crackme,CSTC,crackme,P4,否,否,否,是,否,"""C2 证据包含加壳/虚拟化线索：UPX/packer: program cannot be run in DOS mode. Rich UPX0 UPX1 UPX2 3.95 UPX! jxh, """"MR; @ @<8 (,04E Enter Nam Maci blo2o 's Cr But#n gi""",低,CSTC/crackme
+
+CSTC/free_flag,CSTC,free_flag,U0,否,否,否,否,是,静态证据不足，待人工复核,低,CSTC/free_flag
+
+CSTC/maze,CSTC,maze,P2,否,是,否,否,否,由 C1/C4 映射：题目目录名/题型指向静态结构化验证,低,CSTC/maze
+
+CSTC/pack!pack!pack!,CSTC,pack!pack!pack!,P4,否,否,否,是,否,"""C2 证据包含加壳/虚拟化线索：UPX/packer: in DOS mode. TRich USE0 USE1 .rsrc 3.95 UPX! #3C9 OLF< /U.W ~'f- gL3vbF 0D:D q;mc F?~oWy oWy> +vn]W """"R.; Ok0; '"""":Xy ^goj wc""",低,CSTC/pack!pack!pack!
+
+CSTC/rand,CSTC,rand,U0,否,否,否,否,是,静态证据不足，待人工复核,低,CSTC/rand
+
+CUMTCTF/REgame,CUMTCTF,REgame,U0,否,否,否,否,是,静态证据不足，待人工复核,低,CUMTCTF/REgame
+
+CUMTCTF/re1,CUMTCTF,re1,U0,否,否,否,否,是,静态证据不足，待人工复核,低,CUMTCTF/re1
+
+CUMTCTF/re6,CUMTCTF,re6,U0,否,否,否,否,是,静态证据不足，待人工复核,低,CUMTCTF/re6
+
+CUMTCTF/不识庐山真面目Revenge,CUMTCTF,不识庐山真面目Revenge,U0,否,否,否,否,是,静态证据不足，待人工复核,低,CUMTCTF/不识庐山真面目Revenge
+
+CyBRICS/paired,CyBRICS,paired,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetStartupInfoW GetModuleHandleW RtlUnwindEx GetLastError SetLastError EnterCri; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,CyBRICS/paired
+
+CyBRICS/walker,CyBRICS,walker,U0,否,否,否,否,是,静态证据不足，待人工复核,低,CyBRICS/walker
+
+D3CTF/ancient,D3CTF,ancient,U0,否,否,否,否,是,静态证据不足，待人工复核,低,D3CTF/ancient
+
+D3CTF/jumpjump,D3CTF,jumpjump,U0,否,否,否,否,是,静态证据不足，待人工复核,低,D3CTF/jumpjump
+
+D3CTF/white_give,D3CTF,white_give,P1+P2,是,是,否,否,否,由 C3 环境与交互干预映射：反调试: RtlLookupFunctionEntry RtlVirtualUnwind IsDebuggerPresent UnhandledExceptionFilter SetUnhandledExceptionFilter GetStartupInfoW IsProcesso; 时序/工具干预: ebuggerPresent UnhandledExceptionFilter SetUnhandledExceptionFilter GetStartupInfoW IsProcessorFeaturePresent QueryPerformanceC；由 C1/C4 映射：反调试、时序/工具干预,中,D3CTF/white_give
+
+D3CTF/zigzag,D3CTF,zigzag,U0,否,否,否,否,是,静态证据不足，待人工复核,低,D3CTF/zigzag
+
+DASCTF/1,DASCTF,1,U0,否,否,否,否,是,静态证据不足，待人工复核,低,DASCTF/1
+
+DASCTF/Enjoyit-1的附件,DASCTF,Enjoyit-1的附件,U0,否,否,否,否,是,静态证据不足，待人工复核,低,DASCTF/Enjoyit-1的附件
+
+DASCTF/PaperPlease,DASCTF,PaperPlease,U0,否,否,否,否,是,静态证据不足，待人工复核,低,DASCTF/PaperPlease
+
+DASCTF/StrangeMine的附件,DASCTF,StrangeMine的附件,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: icalSection SetUnhandledExceptionFilter OutputDebugStringA SetLastError InitializeCriticalSectionAndSpinCount GetModuleFileNameW GetModule; 时序/工具干预: CriticalSectionEx DeleteCriticalSection SetUnhandledExceptionFilter OutputDebugStringA SetLastError InitializeCriticalSectionA,中,DASCTF/StrangeMine的附件
+
+DASCTF/drinkSomeTea的附件,DASCTF,drinkSomeTea的附件,P2,否,是,否,否,否,由 C1/C4 映射：伪成功/伪验证,低,DASCTF/drinkSomeTea的附件
+
+DASCTF/replace的附件,DASCTF,replace的附件,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: L QPH= D$XH T$XL D$`L L$hH kernel32.dll IsDebuggerPresent Plz input you flag and i will check it: Wrong lenth Stop debugging You got it.S; 时序/工具干预: riticalSection LoadLibraryA OpenProcess QueryPerformanceCounter RtlAddFunctionTable RtlCaptureContext RtlLookupFunctionEntry Rt,中,DASCTF/replace的附件
+
+DozerCTF/I wanna be the Dozer,DozerCTF,I wanna be the Dozer,P4,否,否,否,是,否,C2 证据包含加壳/虚拟化线索：UPX/packer: ogram cannot be run in DOS mode. Rich1~ UPX0 UPX1 .rsrc 2.01 UPX! f}HP ;T$t Y)PpJ t6I thV9 $[d$ tT9] aBZSV r9yl @Px2v xO(q,低,DozerCTF/I wanna be the Dozer
+
+DozerCTF/dump,DozerCTF,dump,U0,否,否,否,否,是,静态证据不足，待人工复核,低,DozerCTF/dump
+
+DozerCTF/nim,DozerCTF,nim,P3,否,否,是,否,否,C2 证据包含运行时解码/自修改线索：自修改/运行时解码: fSW5ZeoGvw8xg __imp_GetCurrentProcessId shellcode__V9cz3jdYBQFOnk8C1GVnViQ __imp___lconv_init __imp_TerminateProcess __imp_GetPro,低,DozerCTF/nim
+
+Google CTF/1,Google CTF,1,U0,否,否,否,否,是,静态证据不足，待人工复核,低,Google CTF/1
+
+Google CTF/2,Google CTF,2,P4,否,否,否,是,否,C2 证据包含加壳/虚拟化线索：虚拟机/解释器: _string _rl_char_value _rl_isearch_init opcode_dispatch rl_save_prompt isearch.c _rl_isearch_cleanup _rl_walphabetic _rl_input_availabl; 自修改/运行时解码: upported in Python 3.6 and greater dict unpacking cannot be used in dict comprehension named arguments must follow bare * l,中,Google CTF/2
+
+Google CTF/3,Google CTF,3,U0,否,否,否,否,是,静态证据不足，待人工复核,低,Google CTF/3
+
+L3HCTF/double-joy,L3HCTF,double-joy,U0,否,否,否,否,是,静态证据不足，待人工复核,低,L3HCTF/double-joy
+
+MRCTF/EzGame,MRCTF,EzGame,P1+P4,是,否,否,是,否,"""由 C3 环境与交互干预映射：UPX/packer: @ h B.exports @.imports .tls .themida .boot `.reloc x304C 3rdz ;&/( o/Z9j VgVS\ `7B6 _TI8; =!I} l.z_] d""""M5 [gU$EQ &\x; 自修改/运行时解码: eO- q}s.nd> m>/)t fvVK6e 9e_$ -rmk %Q&J smC; +t|u w>$Y S.aU Se*.&3X#? Wr2P K(') [+DmS mOM4`* O9gI <@+ss 08[y MoLl +Zky D|=G；C2 证据包含加壳/虚拟化线索：UPX/packer: @ h B.exports @.imports .tls .themida .boot `.reloc x304C 3rdz ;&/( o/Z9j VgVS\ `7B6 _TI8; =!I} l.z_] d""""M5 [gU$EQ &\x; 自修改/运行时解码: eO- q}s.nd> m>/)t fvVK6e 9e_$ -rmk %Q&J smC; +t|u w>$Y S.aU Se*.&3X#? Wr2P K(') [+DmS mOM4`* O9gI <@+ss 08[y MoLl +Zky D|=G""",中,MRCTF/EzGame
+
+MRCTF/MR_register,MRCTF,MR_register,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: GetTickCount InitializeCriticalSection IsDebuggerPresent LeaveCriticalSection OpenProcess QueryPerformanceCounter ReadFile ReadProcessMe; 时序/工具干预: resent LeaveCriticalSection OpenProcess QueryPerformanceCounter ReadFile ReadProcessMemory RtlAddFunctionTable RtlCaptureContext,中,MRCTF/MR_register
+
+MRCTF/dynamic_debug,MRCTF,dynamic_debug,P1,是,否,否,否,否,由 C3 环境与交互干预映射：题目目录名明确指向环境/调试干预: dynamic_debug,中,MRCTF/dynamic_debug
+
+MRCTF/real_signIn,MRCTF,real_signIn,U0,否,否,否,否,是,静态证据不足，待人工复核,低,MRCTF/real_signIn
+
+MT-CTF/100mazes,MT-CTF,100mazes,P2,否,是,否,否,否,由 C1/C4 映射：题目目录名/题型指向静态结构化验证,低,MT-CTF/100mazes
+
+MT-CTF/Inject,MT-CTF,Inject,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: rc$02 GetModuleFileNameA SizeofResource WriteProcessMemory FindResourceA WaitForSingleObject GetModuleHandleA OpenProcess LockResource Clo; 时序/工具干预: dResource GetProcAddress VirtualAllocEx CreateRemoteThread CreateProcessA KERNEL32.dll ?_Xlength_error@std@@YAXPEBD@Z MSVCP140,高,MT-CTF/Inject
+
+MT-CTF/Random_f7f2f65c48a584e18ae15b23f2fbe935,MT-CTF,Random_f7f2f65c48a584e18ae15b23f2fbe935,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll <?xml version='1.0' encoding='UTF-8' standalone='; 时序/工具干预: eap-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,MT-CTF/Random_f7f2f65c48a584e18ae15b23f2fbe935
+
+MT-CTF/matrix,MT-CTF,matrix,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetStartupInfoW GetModuleHandleW RaiseException RtlUnwind GetLastError SetLastE; 时序/工具干预: .data$r .data$rs .bss .rsrc$01 .rsrc$02 SetUnhandledExceptionFilter KERNEL32.dll UnhandledExceptionFilter GetCurrentProcess Ter,中,MT-CTF/matrix
+
+MT-CTF/superflat_0b45ed5eff128b0e9e120a7edd178cce,MT-CTF,superflat_0b45ed5eff128b0e9e120a7edd178cce,U0,否,否,否,否,是,静态证据不足，待人工复核,低,MT-CTF/superflat_0b45ed5eff128b0e9e120a7edd178cce
+
+MT-CTF/wow_646b8efcc8d900414546f65f02dc9831,MT-CTF,wow_646b8efcc8d900414546f65f02dc9831,P4,否,否,否,是,否,"""C2 证据包含加壳/虚拟化线索：UPX/packer: rogram cannot be run in DOS mode. Rich^ UPX0 UPX1 .rsrc 3.94 UPX! @ClX"""" tBgtc HIw~ *B<C Y\C8 ?rT> 4d)] qAb9 _/i<h5 T:+P UPVw""",低,MT-CTF/wow_646b8efcc8d900414546f65f02dc9831
+
+NEEPUSEC/OLLEH,NEEPUSEC,OLLEH,U0,否,否,否,否,是,静态证据不足，待人工复核,低,NEEPUSEC/OLLEH
+
+NEEPUSEC/easyre,NEEPUSEC,easyre,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ep GetCurrentProcessId GetModuleHandleW OutputDebugStringW GetEnvironmentVariableW FindClose FindFirstFileExW FindNextFileW GetFileAttribu; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter TerminateProcess IsProcessorFeaturePresent IsDebuggerPrese,中,NEEPUSEC/easyre
+
+NEEPUSEC/ez,NEEPUSEC,ez,U0,否,否,否,否,是,静态证据不足，待人工复核,低,NEEPUSEC/ez
+
+NEEPUSEC/login,NEEPUSEC,login,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW RtlUnwindEx SetLastError EnterCriticalSection LeaveCriticalSec; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter TerminateProcess IsProcessorFeaturePresent QueryPerformance,中,NEEPUSEC/login
+
+NEFUCTF 2020/SignUp,NEFUCTF 2020,SignUp,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll <?xml version='1.0' encoding='UTF-8' standalone='; 时序/工具干预: eap-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,NEFUCTF 2020/SignUp
+
+NEFUCTF 2020/Test_your_math,NEFUCTF 2020,Test_your_math,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll <?xml version='1.0' encoding='UTF-8' standalone='; 时序/工具干预: eap-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,NEFUCTF 2020/Test_your_math
+
+NEFUCTF 2020/maze,NEFUCTF 2020,maze,P4,否,否,否,是,否,"""C2 证据包含加壳/虚拟化线索：UPX/packer: rogram cannot be run in DOS mode. (Rich UPX0 UPX1 UPX2 3.95 UPX! V0E? SVWh hh2@ l6wt uf(\"""" Pmw5<Q x|t/ 9YYj0[ <]t_G<-uA ]t6G""",低,NEFUCTF 2020/maze
+
+NepCTF/easymips1,NepCTF,easymips1,P2,否,是,否,否,否,由 C1/C4 映射：伪成功/伪验证,低,NepCTF/easymips1
+
+NepCTF/re__,NepCTF,re__,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: _s _wsplitpath_s wcscpy_s ucrtbased.dll IsDebuggerPresent RaiseException MultiByteToWideChar WideCharToMultiByte UnhandledExceptionFilter; 时序/工具干预: around _alloca was corrupted Unknown Runtime Check Error Unknown Filename Unknown Module Name Run-Time Check Failure #%d - %s S,中,NepCTF/re__
+
+NepCTF/worrrrms,NepCTF,worrrrms,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: runtime._NtWaitForSingleObject runtime._NtQueryInformationProcess runtime._timeBeginPeriod runtime._timeEndPeriod runtime._WSAGetOverlappedResult; 时序/工具干预: e.tracebackinit runtime.fastrandinit runtime.checkmcount runtime.mReserveID runtime.mcommoninit runtime.int64Hash runti,中,NepCTF/worrrrms
+
+RCTF/Hi!Harmony!,RCTF,Hi!Harmony!,U0,否,否,否,否,是,静态证据不足，待人工复核,低,RCTF/Hi!Harmony!
+
+RCTF/dht,RCTF,dht,U0,否,否,否,否,是,静态证据不足，待人工复核,低,RCTF/dht
+
+RCTF/misc-Monopolyzip,RCTF,misc-Monopolyzip,P1,是,否,否,否,否,由 C3 环境与交互干预映射：虚拟机/解释器: -point operation Subscript out of range Illegal opcode Illegal operand Illegal addressing mode Illegal trap Privileged opcode Privileg,低,RCTF/misc-Monopolyzip
+
+RCTF/re,RCTF,re,U0,否,否,否,否,是,静态证据不足，待人工复核,低,RCTF/re
+
+RCTF/two_shortest,RCTF,two_shortest,U0,否,否,否,否,是,静态证据不足，待人工复核,低,RCTF/two_shortest
+
+ROARCTF/WaO,ROARCTF,WaO,U0,否,否,否,否,是,静态证据不足，待人工复核,低,ROARCTF/WaO
+
+ROARCTF/d5f6a2b69cc6a8e09adcef05c07e0dc3,ROARCTF,d5f6a2b69cc6a8e09adcef05c07e0dc3,U0,否,否,否,否,是,静态证据不足，待人工复核,低,ROARCTF/d5f6a2b69cc6a8e09adcef05c07e0dc3
+
+ROARCTF/singluarDLP,ROARCTF,singluarDLP,U0,否,否,否,否,是,静态证据不足，待人工复核,低,ROARCTF/singluarDLP
+
+ROARCTF/slime_war,ROARCTF,slime_war,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW memcpy strcmp |; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresent QueryPerformanceCo,中,ROARCTF/slime_war
+
+SCTF/CplusExceptionEncrypt,SCTF,CplusExceptionEncrypt,U0,否,否,否,否,是,静态证据不足，待人工复核,低,SCTF/CplusExceptionEncrypt
+
+SCTF/sycgame,SCTF,sycgame,U0,否,否,否,否,是,静态证据不足，待人工复核,低,SCTF/sycgame
+
+SWPUCTF 2020/Re,SWPUCTF 2020,Re,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: minateProcess IsProcessorFeaturePresent IsDebuggerPresent GetModuleHandleW QueryPerformanceCounter GetCurrentProcessId GetCurrentThreadId; 时序/工具干预: ale-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,SWPUCTF 2020/Re
+
+SWPUCTF 2020/Re(1),SWPUCTF 2020,Re(1),P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: minateProcess IsProcessorFeaturePresent IsDebuggerPresent RaiseException MultiByteToWideChar WideCharToMultiByte QueryPerformanceCounter; 时序/工具干预: around _alloca was corrupted Unknown Runtime Check Error Unknown Filename Unknown Module Name Run-Time Check Failure #%d - %s St,中,SWPUCTF 2020/Re(1)
+
+SWPUCTF 2020/RealEzRE,SWPUCTF 2020,RealEzRE,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: GetCurrentProcessId InitializeSListHead IsDebuggerPresent GetStartupInfoW RtlUnwind RaiseException FreeLibrary LoadLibraryExW GetStdHandl; 时序/工具干预: urrentThreadId UnhandledExceptionFilter SetUnhandledExceptionFilter TerminateProcess IsProcessorFeaturePresent QueryPerformance,中,SWPUCTF 2020/RealEzRE
+
+SWPUCTF 2020/swpuctf,SWPUCTF 2020,swpuctf,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: CreateEventW IsProcessorFeaturePresent IsDebuggerPresent UnhandledExceptionFilter SetUnhandledExceptionFilter GetStartupInfoW GetCurrent; 时序/工具干预: ebuggerPresent UnhandledExceptionFilter SetUnhandledExceptionFilter GetStartupInfoW GetCurrentProcess TerminateProcess QueryPerf,中,SWPUCTF 2020/swpuctf
+
+TCTF/0bf_be9a2e42af02c093666bae0b41775410ff2cb225,TCTF,0bf_be9a2e42af02c093666bae0b41775410ff2cb225,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TCTF/0bf_be9a2e42af02c093666bae0b41775410ff2cb225
+
+TCTF/FA51R_RE_toplayer,TCTF,FA51R_RE_toplayer,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TCTF/FA51R_RE_toplayer
+
+TCTF/FEA,TCTF,FEA,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TCTF/FEA
+
+TCTF/client,TCTF,client,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TCTF/client
+
+TCTF/fruit,TCTF,fruit,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TCTF/fruit
+
+TCTF/future_646EE2D7588F789D3763AAAA463C49210C8DEF667C14D29B83EEAD7AD8B0FF68,TCTF,future_646EE2D7588F789D3763AAAA463C49210C8DEF667C14D29B83EEAD7AD8B0FF68,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TCTF/future_646EE2D7588F789D3763AAAA463C49210C8DEF667C14D29B83EEAD7AD8B0FF68
+
+TCTF/lalamblambdadambda,TCTF,lalamblambdadambda,P1,是,否,否,否,否,"""由 C3 环境与交互干预映射：UPX/packer: """" @2Xn$ TZ01 Z0{"""" 9S?`= MDB`_ Y/*= 1BH' upx< |M.j CY,? Tunj -K-`s m(yz 5`]m-eMMXOWc dOf ;Tn5 HS1=> 7L# }_8! 7bfq] P7xdh{; 自修改/运行时解码: F4z}Z y*9? :bNJ"""" ,6z8"""" l(U% k5([ """"1O4 ]smc> )d0, eb;$0 bsmc v8/w g@tf u5`G$ }~rd X{} hWv3sE p`ZzbC <)uo .(M~ P;}p ^qt_ /H""",中,TCTF/lalamblambdadambda
+
+TCTF/main,TCTF,main,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TCTF/main
+
+TCTF/vp_2bc8d9cbc2c7092db69ab0f57738f0c424972975247b3c9eb47c61b58ea9b52a,TCTF,vp_2bc8d9cbc2c7092db69ab0f57738f0c424972975247b3c9eb47c61b58ea9b52a,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TCTF/vp_2bc8d9cbc2c7092db69ab0f57738f0c424972975247b3c9eb47c61b58ea9b52a
+
+TSCTF/Go_1000_floors,TSCTF,Go_1000_floors,U0,否,否,否,否,是,静态证据不足，待人工复核,中,TSCTF/Go_1000_floors
+
+TSCTF/PACMAN,TSCTF,PACMAN,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: RtlLookupFunctionEntry RtlVirtualUnwind IsDebuggerPresent UnhandledExceptionFilter SetUnhandledExceptionFilter GetStartupInfoW IsProcesso; 时序/工具干预: musEnablement UnityMain UnityPlayer.dll QueryPerformanceCounter GetCurrentProcessId GetCurrentThreadId GetSystemTimeAsFileTime ,中,TSCTF/PACMAN
+
+TSCTF/PaintUpx - 副本,TSCTF,PaintUpx - 副本,P4,否,否,否,是,否,C2 证据包含加壳/虚拟化线索：UPX/packer: This program cannot be run in DOS mode. UPX0 UPX1 UPX2 3.96 UPX! 8MZtx -LVC HcHR xt6D 7Ew% D$ / AUATUWVSH T=6o %*aX 357/ 0OZ; 题目目录名明确指向运行时/加壳机制: PaintUpx - 副本,高,TSCTF/PaintUpx - 副本
+
+TSCTF/UpxRand,TSCTF,UpxRand,P1+P4,是,否,否,是,否,由 C3 环境与交互干预映射：UPX/packer: UpxRand.exe !This program cannot be run in DOS mode. Rich .text `.rdata @.data .rsrc @.; 题目目录名明确指向运行时/加壳机制: UpxRand；C2 证据包含加壳/虚拟化线索：UPX/packer: UpxRand.exe !This program cannot be run in DOS mode. Rich .text `.rdata @.data .rsrc @.; 题目目录名明确指向运行时/加壳机制: UpxRand,高,TSCTF/UpxRand
+
+TSCTF/UpxRand-packed,TSCTF,UpxRand-packed,P4,否,否,否,是,否,C2 证据包含加壳/虚拟化线索：UPX/packer: UpxRand-packed.exe !This program cannot be run in DOS mode. Rich UPX0 UPX1 .rsrc 3.96 U; 题目目录名明确指向运行时/加壳机制: UpxRand-packed,高,TSCTF/UpxRand-packed
+
+TSCTF/attachment,TSCTF,attachment,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TSCTF/attachment
+
+TSCTF/attachment-1,TSCTF,attachment-1,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetStartupInfoW GetModuleHandleW RtlUnwind GetLastError SetLastError EnterCriti; 时序/工具干预: rc$01 .rsrc$02 UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,TSCTF/attachment-1
+
+TSCTF/attachment-2,TSCTF,attachment-2,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TSCTF/attachment-2
+
+TSCTF/attachment-3,TSCTF,attachment-3,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: Unknown exception bad cast Kernel32.dll IsDebuggerPresent please input your flag: U suck! 233333 Wrong! U did it! pause RSDS C:\Users\250; 时序/工具干预: eap-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,TSCTF/attachment-3
+
+TSCTF/crackme,TSCTF,crackme,P2+P4,否,是,否,是,否,由 C1/C4 映射：UPX/packer；C2 证据包含加壳/虚拟化线索：UPX/packer: program cannot be run in DOS mode. Rich UPX0 UPX1 .rsrc .fuck .adata 3.96 UPX! FWBs'2n VNVJ V=0# )Tz{ gc0; G_Uf <s&:Lnv GHhH,低,TSCTF/crackme
+
+TSCTF/crackme-packed,TSCTF,crackme-packed,P4,否,否,否,是,否,C2 证据包含加壳/虚拟化线索：UPX/packer: crackme-packed.exe !This program cannot be run in DOS mode. tr!` !Rich!` UPX0 UPX1 .rsrc .fuck; 题目目录名明确指向运行时/加壳机制: crackme-packed,高,TSCTF/crackme-packed
+
+TSCTF/debugMe,TSCTF,debugMe,P1,是,否,否,否,否,由 C3 环境与交互干预映射：题目目录名明确指向环境/调试干预: debugMe,中,TSCTF/debugMe
+
+TSCTF/easyXor,TSCTF,easyXor,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TSCTF/easyXor
+
+TSCTF/fxxk,TSCTF,fxxk,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TSCTF/fxxk
+
+TSCTF/fxxk_bak,TSCTF,fxxk_bak,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TSCTF/fxxk_bak
+
+TSCTF/maze,TSCTF,maze,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll .?AVtype_info@@ .?AVbad_alloc@std@@ .?AVbad_array; 时序/工具干预: eap-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,TSCTF/maze
+
+TSCTF/maze_revenge,TSCTF,maze_revenge,P2,否,是,否,否,否,由 C1/C4 映射：伪成功/伪验证,低,TSCTF/maze_revenge
+
+TSCTF/minecraft,TSCTF,minecraft,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW RtlUnwindEx SetLastError EnterCriticalSection LeaveCriticalSec; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter TerminateProcess IsProcessorFeaturePresent QueryPerformance,中,TSCTF/minecraft
+
+TSCTF/tic-tac-toe,TSCTF,tic-tac-toe,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TSCTF/tic-tac-toe
+
+TSCTF/welcome,TSCTF,welcome,U0,否,否,否,否,是,静态证据不足，待人工复核,低,TSCTF/welcome
+
+UMassCTF/adventure,UMassCTF,adventure,U0,否,否,否,否,是,静态证据不足，待人工复核,低,UMassCTF/adventure
+
+UMassCTF/chains,UMassCTF,chains,U0,否,否,否,否,是,静态证据不足，待人工复核,低,UMassCTF/chains
+
+UMassCTF/client,UMassCTF,client,U0,否,否,否,否,是,静态证据不足，待人工复核,低,UMassCTF/client
+
+UMassCTF/lambda,UMassCTF,lambda,U0,否,否,否,否,是,静态证据不足，待人工复核,低,UMassCTF/lambda
+
+VNCTF/1,VNCTF,1,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll <?xml version='1.0' encoding='UTF-8' standalone='; 时序/工具干预: eap-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,VNCTF/1
+
+XCTF/001-hackme,XCTF,001-hackme,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/001-hackme
+
+XCTF/003-re2-cpp-is-awesome,XCTF,003-re2-cpp-is-awesome,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/003-re2-cpp-is-awesome
+
+XCTF/004-666,XCTF,004-666,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/004-666
+
+XCTF/005-easyRE1,XCTF,005-easyRE1,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/005-easyRE1
+
+XCTF/006-re1-100,XCTF,006-re1-100,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ombs stderr ioctl strtold_l __duplocale ptrace fileno fwrite fread gettimeofday atoi lseek64 fdopen syscall setvbuf __wcsxfrm_,低,XCTF/006-re1-100
+
+XCTF/007-Shuffle,XCTF,007-Shuffle,P2,否,是,否,否,否,由 C1/C4 映射：题目目录名/题型指向静态结构化验证,低,XCTF/007-Shuffle
+
+XCTF/008-re-for-50-plz-50,XCTF,008-re-for-50-plz-50,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/008-re-for-50-plz-50
+
+XCTF/009-dmd-50,XCTF,009-dmd-50,P2,否,是,否,否,否,由 C1/C4 映射：题目目录名/题型指向静态结构化验证,低,XCTF/009-dmd-50
+
+XCTF/011-secret-galaxy-300,XCTF,011-secret-galaxy-300,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/011-secret-galaxy-300
+
+XCTF/012-srm-50,XCTF,012-srm-50,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetStartupInfoW GetLastError GetModuleFileNameW InitializeCriticalSectionAndSpi; 时序/工具干预: log USER32.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,XCTF/012-srm-50
+
+XCTF/013-Mysterious,XCTF,013-Mysterious,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: tdHandle WriteFile InterlockedDecrement OutputDebugStringA GetProcAddress LoadLibraryA InterlockedIncrement GetModuleFileNameA TerminatePr,低,XCTF/013-Mysterious
+
+XCTF/014-answer-to-everything,XCTF,014-answer-to-everything,P2,否,是,否,否,否,由 C1/C4 映射：伪成功/伪验证,低,XCTF/014-answer-to-everything
+
+XCTF/015-elrond32,XCTF,015-elrond32,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/015-elrond32
+
+XCTF/018-Reversing-x64Elf-100,XCTF,018-Reversing-x64Elf-100,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: tack_chk_fail stdin printf fgets getenv ptrace __libc_start_main __gmon_start__ GLIBC_2.4 GLIBC_2.2.5 UH-h UH-h VUUU VUUU []A\,低,XCTF/018-Reversing-x64Elf-100
+
+XCTF/019-IgniteMe,XCTF,019-IgniteMe,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: tdHandle WriteFile InterlockedDecrement OutputDebugStringA GetProcAddress LoadLibraryA InterlockedIncrement GetModuleFileNameA GetCPInfo C; 时序/工具干预: CompareStringA CompareStringW HeapFree SetUnhandledExceptionFilter HeapAlloc HeapReAlloc GetLastError VirtualFree VirtualAlloc,中,XCTF/019-IgniteMe
+
+XCTF/020-流浪者,XCTF,020-流浪者,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/020-流浪者
+
+XCTF/021-EasyRE,XCTF,021-EasyRE,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll <?xml version='1.0' encoding='UTF-8' standalone='; 时序/工具干预: eap-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,XCTF/021-EasyRE
+
+XCTF/022-SignIn,XCTF,022-SignIn,P2,否,是,否,否,否,由 C1/C4 映射：题目目录名/题型指向静态结构化验证,低,XCTF/022-SignIn
+
+XCTF/023-simple-check-100,XCTF,023-simple-check-100,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/023-simple-check-100
+
+XCTF/024-debug,XCTF,024-debug,P1,是,否,否,否,否,由 C3 环境与交互干预映射：题目目录名明确指向环境/调试干预: 024-debug,中,XCTF/024-debug
+
+XCTF/026-EASYHOOK,XCTF,026-EASYHOOK,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: Window MessageBoxA user32.dll WriteFile WriteProcessMemory VirtualProtectEx GetProcAddress LoadLibraryA OpenProcess GetCurrentProcessId Cr; 时序/工具干预: EASYHOOK.exe !This program cannot be run in DOS mode. Rich .text `.rdata @.data PUVWQ _^; 题目目录名明确指向环境/调试干预: 026-EASYHOOK,高,XCTF/026-EASYHOOK
+
+XCTF/027-crackme,XCTF,027-crackme,P2,否,是,否,否,否,由 C1/C4 映射：题目目录名/题型指向静态结构化验证,低,XCTF/027-crackme
+
+XCTF/028-crazy,XCTF,028-crazy,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/028-crazy
+
+XCTF/029-Repalce,XCTF,029-Repalce,P4,否,否,否,是,否,"C2 证据包含加壳/虚拟化线索：UPX/packer: cannot be run in DOS mode. ['dg ['Rich UPX0 UPX1 .rsrc 3.91 UPX! -A(Y X$Y3 #\m 4 9olu 1lu, #xi # u6$| $$Y] {!$f 8csm ?`YY",低,XCTF/029-Repalce
+
+XCTF/030-gametime,XCTF,030-gametime,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetStartupInfoW GetModuleHandleW KERNEL32.dll GetLastError GetModuleFileNameW I; 时序/工具干预: .rsrc$02 Sleep UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,XCTF/030-gametime
+
+XCTF/031-ReverseMe-120,XCTF,031-ReverseMe-120,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: t\ctf \Release\ctf .pdb GetCommandLineA IsDebuggerPresent EncodePointer DecodePointer IsProcessorFeaturePresent EnterCriticalSection Leav; 时序/工具干预: eFileNameA WriteFile GetModuleFileNameW QueryPerformanceCounter GetCurrentProcessId GetSystemTimeAsFileTime GetEnvironmentStrin,中,XCTF/031-ReverseMe-120
+
+XCTF/032-serial-150,XCTF,032-serial-150,P2,否,是,否,否,否,由 C1/C4 映射：题目目录名/题型指向静态结构化验证,低,XCTF/032-serial-150
+
+XCTF/034-testre,XCTF,034-testre,P2,否,是,否,否,否,由 C1/C4 映射：诱饵/假路径,低,XCTF/034-testre
+
+XCTF/035-reverse-for-the-holy-grail-350,XCTF,035-reverse-for-the-holy-grail-350,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/035-reverse-for-the-holy-grail-350
+
+XCTF/036-Windows-Reverse2,XCTF,036-Windows-Reverse2,P1+P4,是,否,否,是,否,"""由 C3 环境与交互干预映射：UPX/packer: . Rich .text .rdata .data .rsrc .reloc .aspack .adata +V8YY <""""Rw$ gf$&RK*E J<kfU n}Oxh7t F6)@Q 7R ND YQA_ I3""""C ?X6K rmPk """"wb\^; 自修改/运行时解码: program cannot be run in DOS mode. Rich UnPackEr LoveBoom D$(SUVW D$@d t$H; D$$VPW L$@d Y_^][ L$(3 1<0| Rh0! Qh`! 8csm _^[] Y_^[；C2 证据包含加壳/虚拟化线索：UPX/packer: . Rich .text .rdata .data .rsrc .reloc .aspack .adata +V8YY <""""Rw$ gf$&RK*E J<kfU n}Oxh7t F6)@Q 7R ND YQA_ I3""""C ?X6K rmPk """"wb\^; 自修改/运行时解码: program cannot be run in DOS mode. Rich UnPackEr LoveBoom D$(SUVW D$@d t$H; D$$VPW L$@d Y_^][ L$(3 1<0| Rh0! Qh`! 8csm _^[] Y_^[""",中,XCTF/036-Windows-Reverse2
+
+XCTF/037-Newbie_calculations,XCTF,037-Newbie_calculations,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ___________________.pdb GetCommandLineA IsDebuggerPresent EncodePointer DecodePointer IsProcessorFeaturePresent EnterCriticalSection Leav; 时序/工具干预: NameW GetProcessHeap GetModuleFileNameA QueryPerformanceCounter GetCurrentProcessId GetSystemTimeAsFileTime GetEnvironmentStrin,中,XCTF/037-Newbie_calculations
+
+XCTF/038-easyre-153,XCTF,038-easyre-153,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/038-easyre-153
+
+XCTF/039-key,XCTF,039-key,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll memcpy .?AVtype_info@@ .?AVbad_alloc@std@@ .?AVba; 时序/工具干预: ale-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,XCTF/039-key
+
+XCTF/040-deedeedee,XCTF,040-deedeedee,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/040-deedeedee
+
+XCTF/041-Windows-Reverse1,XCTF,041-Windows-Reverse1,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: Id GetTickCount QueryPerformanceCounter IsDebuggerPresent SetUnhandledExceptionFilter UnhandledExceptionFilter GetCurrentProcess Terminat; 时序/工具干预: ocessId GetCurrentThreadId GetTickCount QueryPerformanceCounter IsDebuggerPresent SetUnhandledExceptionFilter UnhandledExceptio,中,XCTF/041-Windows-Reverse1
+
+XCTF/042-notsequence,XCTF,042-notsequence,P2,否,是,否,否,否,由 C1/C4 映射：诱饵/假路径、题目目录名明确指向诱饵/伪路径,高,XCTF/042-notsequence
+
+XCTF/043-easy_Maze,XCTF,043-easy_Maze,P2,否,是,否,否,否,由 C1/C4 映射：题目目录名/题型指向静态结构化验证,低,XCTF/043-easy_Maze
+
+XCTF/044-zorropub,XCTF,044-zorropub,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/044-zorropub
+
+XCTF/045-catch-me,XCTF,045-catch-me,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: VP+ libc.so.6 puts printf strstr getenv ptrace __libc_start_main __gmon_start__ GLIBC_2.2.5 bad_ bad_ bad_ bad_ bad_ bad_ ffff,低,XCTF/045-catch-me
+
+XCTF/046-BabyXor,XCTF,046-BabyXor,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: tdHandle WriteFile InterlockedDecrement OutputDebugStringA GetProcAddress LoadLibraryA InterlockedIncrement GetModuleFileNameA HeapAlloc H; 时序/工具干预: ilePointer FlushFileBuffers CloseHandle SetUnhandledExceptionFilter SetConsoleCtrlHandler GetStringTypeA GetStringTypeW IsBadC,中,XCTF/046-BabyXor
+
+XCTF/048-梅津美治郎,XCTF,048-梅津美治郎,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/048-梅津美治郎
+
+XCTF/049-echo-server,XCTF,049-echo-server,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/049-echo-server
+
+XCTF/050-re5-packed-movement,XCTF,050-re5-packed-movement,P4,否,否,否,是,否,C2 证据包含加壳/虚拟化线索：UPX/packer: re5-packed-movement /lib/ld-linux.so.2 libc.so.6 libm.so.6 sigaction exit strlen write read GLIBC_2; 题目目录名明确指向运行时/加壳机制: 050-re5-packed-movement,高,XCTF/050-re5-packed-movement
+
+XCTF/051-The_Maya_Society,XCTF,051-The_Maya_Society,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/051-The_Maya_Society
+
+XCTF/052-mfc逆向-200,XCTF,052-mfc逆向-200,P1,是,否,否,否,否,"""由 C3 环境与交互干预映射：反调试: 07c XH*=M"""" ;-$l >O)[ F`fh VtV6 KX+D<y IsDebuggerPresent FillRgn TlsSetValue ImmGetOpenStatus RoundRect SetEnvironmentVariableA SetRectR; 时序/工具干预: Rect SetEnvironmentVariableA SetRectRgn SetUnhandledExceptionFilter M9mv. 9o$E (,eY 't~5/ XMD&] 'u:b MultiByteToWideChar /J4p] $l""",中,XCTF/052-mfc逆向-200
+
+XCTF/053-2ex1,XCTF,053-2ex1,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/053-2ex1
+
+XCTF/054-asong,XCTF,054-asong,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/054-asong
+
+XCTF/055-76号,XCTF,055-76号,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/055-76号
+
+XCTF/056-first,XCTF,056-first,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/056-first
+
+XCTF/057-easyCpp,XCTF,057-easyCpp,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/057-easyCpp
+
+XCTF/060-reverse-box,XCTF,060-reverse-box,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/060-reverse-box
+
+XCTF/061-easy_go,XCTF,061-easy_go,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/061-easy_go
+
+XCTF/063-2ex,XCTF,063-2ex,U0,否,否,否,否,是,静态证据不足，待人工复核,低,XCTF/063-2ex
+
+XCTF/064-pseudorandom,XCTF,064-pseudorandom,P2,否,是,否,否,否,由 C1/C4 映射：数据/指令变换、题目目录名/题型指向静态结构化验证,低,XCTF/064-pseudorandom
+
+XCTF/88901b167ef04a749e61551f309ee3f1,XCTF,88901b167ef04a749e61551f309ee3f1,P2,否,是,否,否,否,由 C1/C4 映射：伪成功/伪验证,低,XCTF/88901b167ef04a749e61551f309ee3f1
+
+天翼初赛/NicePy,天翼初赛,NicePy,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW RtlUnwindEx SetLastError EnterCriticalSection LeaveCriticalSec; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter TerminateProcess IsProcessorFeaturePresent QueryPerformance,中,天翼初赛/NicePy
+
+天翼初赛/ezgo,天翼初赛,ezgo,U0,否,否,否,否,是,静态证据不足，待人工复核,低,天翼初赛/ezgo
+
+天翼初赛/revvverse,天翼初赛,revvverse,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ix_madvise execvp getauxval strncasecmp ptrace fileno pclose gethostname usleep chown getcwd __getdelim fwrite fread __cyg_pro,低,天翼初赛/revvverse
+
+宁波/SleeperAgent,宁波,SleeperAgent,P1,是,否,否,否,否,由 C3 环境与交互干预映射：时序/工具干预: tring]string *rsa.PrecomputedValues *runtime.checkmarksMap *runtime.headTailIndex *runtime.interfacetype *runtime.itabTableType *r; 题目目录名明确指向环境/调试干预: SleeperAgent,高,宁波/SleeperAgent
+
+强网拟态/RE1-babyre,强网拟态,RE1-babyre,P4,否,否,否,是,否,C2 证据包含加壳/虚拟化线索：UPX/packer: babyre UPX! '@6!O = ~@ GXX tdo` P7`bW /lib64 nux-x86- so.2 6`P6 C/!d exit puts __st ack_c,低,强网拟态/RE1-babyre
+
+强网杯/chall,强网杯,chall,P1,是,否,否,否,否,由 C3 环境与交互干预映射：环境/虚拟机检查: O/Desktop/project/task/uc/unicorn-1.0.3/qemu/include/qapi/qmp/qobject.h obj->type != NULL obj->type->destroy != NULL qom/obj; 时序/工具干预: cmpxchg8b cmpxchg16b single_step cpuid rdtsc rdtscp rdpmc rdmsr wrmsr check_iob check_iow check_iol outb outw outl svm_check,中,强网杯/chall
+
+强网杯/easyaes,强网杯,easyaes,U0,否,否,否,否,是,静态证据不足，待人工复核,低,强网杯/easyaes
+
+极客巅峰/baby_maze,极客巅峰,baby_maze,P2,否,是,否,否,否,由 C1/C4 映射：题目目录名/题型指向静态结构化验证,低,极客巅峰/baby_maze
+
+湖湘杯/Hideit_813671af35dc5051d3f63bc716fcf290,湖湘杯,Hideit_813671af35dc5051d3f63bc716fcf290,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: a$6 .data .bss .pdata .rsrc$01 .rsrc$02 WriteProcessMemory VirtualProtect GetCurrentProcess VirtualAllocEx KERNEL32.dll __C_specific_handl; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter TerminateProcess IsProcessorFeaturePresent QueryPerformanc,中,湖湘杯/Hideit_813671af35dc5051d3f63bc716fcf290
+
+湖湘杯/babyunt_5872438de9788d9af56d53980367413c,湖湘杯,babyunt_5872438de9788d9af56d53980367413c,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: GetCurrentThreadId InitializeSListHead IsDebuggerPresent UnhandledExceptionFilter SetUnhandledExceptionFilter IsProcessorFeaturePresent; 时序/工具干预: RWLockExclusive GetSystemTimeAsFileTime QueryPerformanceCounter QueryPerformanceFrequency TlsGetValue TlsSetValue InitializeCriti,中,湖湘杯/babyunt_5872438de9788d9af56d53980367413c
+
+湖湘杯/shell_250f572b9d4a891213d31f8c20976131,湖湘杯,shell_250f572b9d4a891213d31f8c20976131,P1,是,否,否,否,否,由 C3 环境与交互干预映射：题目目录名明确指向运行时/加壳机制: shell_250f572b9d4a891213d31f8c20976131,中,湖湘杯/shell_250f572b9d4a891213d31f8c20976131
+
+祥云杯/Dizzy_eff0e8b1e85ea6cf91d71dac530e9c9c,祥云杯,Dizzy_eff0e8b1e85ea6cf91d71dac530e9c9c,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll .?AVtype_info@@ .?AVbad_alloc@std@@ .?AVbad_array; 时序/工具干预: eap-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,祥云杯/Dizzy_eff0e8b1e85ea6cf91d71dac530e9c9c
+
+祥云杯/InjectDll,祥云杯,InjectDll,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent memcmp memcpy <?xml version='1.0' encoding='UTF-8' standalone='yes'?> <assembly; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter TerminateProcess IsProcessorFeaturePresent QueryPerformance,高,祥云杯/InjectDll
+
+祥云杯/boa,祥云杯,boa,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: Id InitializeSListHead RtlVirtualUnwind IsDebuggerPresent UnhandledExceptionFilter SetUnhandledExceptionFilter GetStartupInfoW IsProcesso; 时序/工具干预: mTimeAsFileTime KERNEL32.dll WS2_32.dll QueryPerformanceCounter GetCurrentProcessId GetCurrentThreadId InitializeSListHead RtlV,中,祥云杯/boa
+
+祥云杯/ps,祥云杯,ps,U0,否,否,否,否,是,静态证据不足，待人工复核,低,祥云杯/ps
+
+祥云杯/勒索解密_a6b0af561d5ad1ff25888265806a1be3,祥云杯,勒索解密_a6b0af561d5ad1ff25888265806a1be3,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: minateProcess IsProcessorFeaturePresent IsDebuggerPresent GetStartupInfoW QueryPerformanceCounter GetCurrentProcessId GetCurrentThreadId; 时序/工具干预: SingleObjectEx UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresent,中,祥云杯/勒索解密_a6b0af561d5ad1ff25888265806a1be3
+
+第五空间/StangeLanguage,第五空间,StangeLanguage,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW RtlUnwindEx SetLastError EnterCriticalSection LeaveCriticalSec; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter TerminateProcess IsProcessorFeaturePresent QueryPerformance,中,第五空间/StangeLanguage
+
+红帽杯/ezRev,红帽杯,ezRev,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW memcmp memcpy memmove .?AVtype_info@@ .?AVbad_alloc@std@@ .?AV; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,红帽杯/ezRev
+
+红帽杯/file_store,红帽杯,file_store,U0,否,否,否,否,是,静态证据不足，待人工复核,低,红帽杯/file_store
+
+红明谷杯/g0,红明谷杯,g0,U0,否,否,否,否,是,静态证据不足，待人工复核,中,红明谷杯/g0
+
+红明谷杯/gogogo,红明谷杯,gogogo,U0,否,否,否,否,是,静态证据不足，待人工复核,中,红明谷杯/gogogo
+
+绿城杯/babyvxworks,绿城杯,babyvxworks,U0,否,否,否,否,是,静态证据不足，待人工复核,低,绿城杯/babyvxworks
+
+绿城杯/easy_re,绿城杯,easy_re,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll <?xml version='1.0' encoding='UTF-8' standalone='; 时序/工具干预: eap-l1-1-0.dll UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,绿城杯/easy_re
+
+绿城杯/抛石机,绿城杯,抛石机,U0,否,否,否,否,是,静态证据不足，待人工复核,低,绿城杯/抛石机
+
+羊城杯/BabySmc-e6f4a804-1fbf-482d-b140-151927ddcfdb,羊城杯,BabySmc-e6f4a804-1fbf-482d-b140-151927ddcfdb,P1+P3,是,否,是,否,否,由 C3 环境与交互干预映射：题目目录名明确指向运行时/加壳机制: BabySmc-e6f4a804-1fbf-482d-b140-151927ddcfdb；C2 证据包含运行时解码/自修改线索：题目目录名明确指向运行时/加壳机制: BabySmc-e6f4a804-1fbf-482d-b140-151927ddcfdb,中,羊城杯/BabySmc-e6f4a804-1fbf-482d-b140-151927ddcfdb
+
+羊城杯/DeltX-9e57946f-ce9c-452e-a526-8923af9faa07,羊城杯,DeltX-9e57946f-ce9c-452e-a526-8923af9faa07,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetStartupInfoW GetModuleHandleW RtlUnwindEx GetLastError SetLastError EnterCri; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,羊城杯/DeltX-9e57946f-ce9c-452e-a526-8923af9faa07
+
+羊城杯/EasyVM-e4400ed4-b59d-45fb-b7eb-b47d27347c4f,羊城杯,EasyVM-e4400ed4-b59d-45fb-b7eb-b47d27347c4f,P4,否,否,否,是,否,C2 证据包含加壳/虚拟化线索：虚拟机/解释器: EasyVM /lib/ld-linux.so.2 libc.so.6 _IO_stdin_used exit __stack_chk_fail putchar stdin; 题目目录名明确指向运行时/加壳机制: EasyVM-e4400ed4-b59d-45fb-b7eb-b47d27347c4f,高,羊城杯/EasyVM-e4400ed4-b59d-45fb-b7eb-b47d27347c4f
+
+羊城杯/OddCode-bad214b6-1393-4565-85d3-0bd509bc1c48,羊城杯,OddCode-bad214b6-1393-4565-85d3-0bd509bc1c48,U0,否,否,否,否,是,静态证据不足，待人工复核,低,羊城杯/OddCode-bad214b6-1393-4565-85d3-0bd509bc1c48
+
+羊城杯/safe box-8d0015ea-7146-4ed4-88dc-de6e8783dffa,羊城杯,safe box-8d0015ea-7146-4ed4-88dc-de6e8783dffa,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: a$6 .data .bss .pdata .rsrc$01 .rsrc$02 WriteProcessMemory WaitForDebugEvent GetModuleFileNameW CreatePipe ContinueDebugEvent GetLastError; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePrese,中,羊城杯/safe box-8d0015ea-7146-4ed4-88dc-de6e8783dffa
+
+莲城杯/baby_rust,莲城杯,baby_rust,P2,否,是,否,否,否,由 C1/C4 映射：伪成功/伪验证,低,莲城杯/baby_rust
+
+虎符网络安全技能大赛/CrackMe,虎符网络安全技能大赛,CrackMe,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent GetModuleHandleW KERNEL32.dll memcpy memmove .?AVtype_info@@ .?AVbad_alloc@std@; 时序/工具干预: lVirtualUnwind UnhandledExceptionFilter SetUnhandledExceptionFilter GetCurrentProcess TerminateProcess IsProcessorFeaturePresen,中,虎符网络安全技能大赛/CrackMe
+
+虎符网络安全技能大赛/re,虎符网络安全技能大赛,re,U0,否,否,否,否,是,静态证据不足，待人工复核,低,虎符网络安全技能大赛/re
+
+西湖论剑/2111196197801f19959,西湖论剑,2111196197801f19959,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent UnhandledExceptionFilter SetUnhandledExceptionFilter GetStartupInfoW IsProcesso; 时序/工具干预: minate ucrtbased.dll GetCurrentThreadId QueryPerformanceCounter GetCurrentProcessId GetSystemTimeAsFileTime InitializeSListHead,中,西湖论剑/2111196197801f19959
+
+西湖论剑/2111196197801f693f3,西湖论剑,2111196197801f693f3,P1,是,否,否,否,否,由 C3 环境与交互干预映射：反调试: ystemTimeAsFileTime InitializeSListHead IsDebuggerPresent UnhandledExceptionFilter SetUnhandledExceptionFilter GetStartupInfoW IsProcesso; 时序/工具干预: it _controlfp_s terminate ucrtbased.dll QueryPerformanceCounter GetCurrentProcessId GetSystemTimeAsFileTime InitializeSListHead,中,西湖论剑/2111196197801f693f3
+
+西湖论剑/2111196197801f94a65,西湖论剑,2111196197801f94a65,U0,否,否,否,否,是,静态证据不足，待人工复核,低,西湖论剑/2111196197801f94a65
+
+西湖论剑/21111961978038e80fb,西湖论剑,21111961978038e80fb,U0,否,否,否,否,是,静态证据不足，待人工复核,低,西湖论剑/21111961978038e80fb
+
+EXT/PUXSY-Reverse-Engineering-CTF/CTF_Level8,PUXSY Reverse-Engineering-CTF,CTF_Level8,P1+P2,是,是,否,否,否,外部补充；P1: IsDebuggerPresent/timing；P2: decoy validators and obfuscated bit/shift/base64 transform；来源：https://github.com/PUXSY/Reverse-Engineering-CTF,高,PUXSY-Reverse-Engineering-CTF/CTF_Level8/CTF_Level8.exe
+
+EXT/PUXSY-Reverse-Engineering-CTF/CTF_Level9,PUXSY Reverse-Engineering-CTF,CTF_Level9,P1+P2,是,是,否,否,否,外部补充；P1: IsDebuggerPresent；P2: custom mix hash and obfuscated constants；来源：https://github.com/PUXSY/Reverse-Engineering-CTF,高,PUXSY-Reverse-Engineering-CTF/CTF_Level9/CTF_Level9.exe
+
+EXT/PUXSY-Reverse-Engineering-CTF/CTF_Level10,PUXSY Reverse-Engineering-CTF,CTF_Level10,P1+P2,是,是,否,否,否,"外部补充；P1: IsDebuggerPresent/invalid-handle check；P2: encrypted vector, custom magic hash, index/XOR arithmetic；来源：https://github.com/PUXSY/Reverse-Engineering-CTF",高,PUXSY-Reverse-Engineering-CTF/CTF_Level10/CTF_Level10.exe
+
+EXT/PUXSY-Reverse-Engineering-CTF/CTF_Level13,PUXSY Reverse-Engineering-CTF,CTF_Level13,P1+P2,是,是,否,否,否,"外部补充；P1: IsDebuggerPresent/CheckRemoteDebuggerPresent；P2: fragmented data, decoys, decimal-to-binary/XOR transform；来源：https://github.com/PUXSY/Reverse-Engineering-CTF",高,PUXSY-Reverse-Engineering-CTF/CTF_Level13/CTF_Level13.exe
+
+EXT/LabyREnth-2016/Windows-3/Squirtle,LabyREnth 2016 Windows 3,Squirtle,P1+P2,是,是,否,否,否,外部补充；P1: debugger/PEB/timing/anti-VM checks；P2: fake rand checks and XOR-encoded output image；来源：https://github.com/nullsector/ctf/blob/master/PANLabyREnthCTF/Windows/3/Squirtle/README.md,高,LabyREnth-2016/Windows-3/Squirtle/SquirtleChallenge.exe
+
+EXT/Crackme-Agent-Bench-v2,Crackme-Agent-Bench-v2,crackme-agent-bench v2（x86/x64）,P1+P2,是,是,否,否,否,"外部补充；P1: anti-debugging/integrity checks；P2: control-flow flattening, dead states, obfuscated constants；来源：https://github.com/knewstimek/crackme-agent-bench/blob/main/v2/README.md",高,Crackme-Agent-Bench/crackme-agent-bench-v2/crackme_v2_x86.exe; Crackme-Agent-Bench/crackme-agent-bench-v2/crackme_v2_x64.exe
+
+EXT/HuanBui-CTF/PC_Check,HuanBui CTF,PC_Check,P1+P2,是,是,否,否,否,外部补充；P1: Anti-VMware and dynamic anti-debugging；P2: code/data obfuscation；来源：https://github.com/PlayBoiSK8/HuanBui_CTF,高,HuanBui-CTF/PC_Check/PC_Check.exe
+
+EXT/AntiqueRev,Security Camp 2014 CTF Softsec Reverse 400,AntiqueRev,P1+P2,是,是,否,否,否,外部补充；P1: PEB BeingDebugged/NtQueryInformationProcess/VMware artifact checks；P2: API/string arithmetic obfuscation and junk instructions；来源：https://github.com/ntddk/AntiqueRev,高,Security-Camp-2014-CTF-Softsec/AntiqueRev/AntiqueRev.exe
+
+EXT/Google-CTF-2018-Finals/re-drm/ASPARAGUS,Google CTF 2018 Finals,re-drm / ASPARAGUS,P1+P3,是,否,是,否,否,外部补充；P1: ptrace checker；P3: encrypted sections/functions decrypted into executable memory at runtime；来源：https://github.com/google/google-ctf/tree/main/2018/finals/re-drm,高,Google-CTF-2018-Finals/re-drm/ASPARAGUS
+
+EXT/PKU-GeekGame-5th/binary-ffi,PKU GeekGame 5th,binary-ffi,P1+P3,是,否,是,否,否,外部补充；P1: TracerPid/rdtsc/cpuid checks；P3: init_array self-modifying code via mprotect and runtime XOR；来源：https://github.com/PKU-GeekGame/geekgame-5th/tree/master/official_writeup/binary-ffi,高,PKU-GeekGame-5th/binary-ffi/binary-ffi
+
+EXT/LabyREnth-2017/Binary/BBzFirstMalware,LabyREnth 2017 Binary 1,BBzFirstMalware,P1+P3,是,否,是,否,否,外部补充；P1: rdtsc anti-debug；P3: decrypts external payload and injects/hollows ping.exe at runtime；来源：https://github.com/nullsector/ctf/blob/master/PANLabyREnthCTF2017/Binary/BBzFirstMalware/README.md,高,LabyREnth-2017/Binary-1/BBzFirstMalware/MyFirstMalware.exe
+
+EXT/LabyREnth-2016/Windows-1/AntiD,LabyREnth 2016 Windows 1,AntiD,P1+P4,是,否,否,是,否,外部补充；P1: IsDebuggerPresent/CheckRemoteDebuggerPresent/FindWindowW/rdtsc；P4: modified UPX packing；来源：https://github.com/nullsector/ctf/blob/master/PANLabyREnthCTF/Windows/1/AntiD/README.md,高,LabyREnth-2016/Windows-1/AntiD/AntiD.exe
+
+EXT/PoliCTF-2017/Pasticciotto,PoliCTF 2017,Pasticciotto / PoliCTF VM,P2+P4,否,是,否,是,否,外部补充；P2: opcode shuffle/custom obfuscation；P4: custom virtual-machine execution；来源：https://github.com/peperunas/pasticciotto,高,PoliCTF-2017/Pasticciotto/client.elf
+
+EXT/Panca2022/reverse-engineering-ctf/Encrypted-Message,Reverse Engineering CTF / Panca2022,Encrypted Message,P2+P3,否,是,是,否,否,外部补充；P2: binary obfuscation；P3: secret code and flag XOR-decrypted in memory at runtime；来源：https://github.com/Panca2022/reverse-engineering-ctf,高,Panca2022-Reverse-Engineering-CTF/Encrypted-Message/challenge_binary
+
+EXT/KITCTFCTF-2022/protector,KITCTFCTF 2022,protector,P3+P4,否,否,是,是,否,外部补充；P3: 每次只解密一个 32-byte 代码块，执行后重新加密并更新流密钥；P4: 自定义 protector/VM 式封装；来源：https://github.com/maulvialf/CTF-Challs-Archive/tree/master/2022/KITCTFCTF/rev/protector,高,KITCTFCTF-2022/protector/protector
+
+EXT/NUS-Greyhats-Welcome-CTF-2025/Organised-Person,NUS Greyhats Welcome CTF 2025,Organised Person,P3+P4,否,否,是,是,否,外部补充；P3: 运行时 XOR 解密/重建内嵌 PE；P4: custom packer；来源：https://github.com/NUSGreyhats/welcome-ctf-2025-public/tree/main/rev/organised_person,高,NUS-Greyhats-Welcome-CTF-2025/Organised-Person/check_flag.exe
+
