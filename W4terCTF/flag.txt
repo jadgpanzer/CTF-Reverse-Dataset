@@ -1,0 +1,6 @@
+Welcome flag{sysu_ctf_hello} 表替换 + 异或校验
+XOR flag{this_is_flag!} PRNG(LCG) 密钥流异或
+Change flag{not_flag_flag} 运行期解密自包含校验函数
+flager flag{123456_of_flag} 两级自修改
+crack flag{plz_submit_your_flag} 自定义单级加壳: 完整校验逻辑加密隐藏于 loader stub 后
+quizz flag{hello_and_welcome} 自定义两级加壳
